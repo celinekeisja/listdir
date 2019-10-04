@@ -1,12 +1,11 @@
 import os
 import argparse
 import csv
-import glob
 
 
 def directory_files(name, files):
     # Puts the Parent Path, File Name, and File Size of files within the specified directory in a CSV file.
-    with open(f'{name}.csv', 'w+') as csv_file:
+    with open(f'{name}.csv', 'w+', newline='') as csv_file:
         field_n = ['Parent Path', 'File Name', 'File Size']
         writer = csv.DictWriter(csv_file, fieldnames=field_n)
         writer.writeheader()
