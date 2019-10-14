@@ -1,0 +1,1618 @@
+Parent Path,File Name,File Size
+/OEM,Camera.txt,102
+/OEM,diskdrive.txt,111
+/OEM,diskdrive_sub.txt,58
+/OEM,ModuleList.ini,2546
+/OEM,SCLTemplate.txt,125
+/OEM,TaskList.txt,10220
+/OEM\AcerLogs,AuditAlaunch.log,1186
+/OEM\AcerLogs,BeforeOOBE.log,4304
+/OEM\AcerLogs,BIOS_DPKCheck_2017_12_19_18_46_29_45.log,2087
+/OEM\AcerLogs,DismCleanupImage.log,8337024
+/OEM\AcerLogs,eRecovery_tool.log,260
+/OEM\AcerLogs,FirstBoot.log,10781
+/OEM\AcerLogs,GCMAPP_Check.log,8218
+/OEM\AcerLogs,InstallAppx.log,1878247
+/OEM\AcerLogs,MigLog.xml,95793586
+/OEM\AcerLogs,NAPP2P.log,4343
+/OEM\AcerLogs,NAPP4P.log,84098
+/OEM\AcerLogs,OSSkuDetection_2017_12_19_18_13_45_855.log,3000
+/OEM\AcerLogs,Patch.log,53957
+/OEM\AcerLogs,Patch_SetLPDST.log,494
+/OEM\AcerLogs,PrepareForPBR.log,46082
+/OEM\AcerLogs,RUN_NGEN.log,294651
+/OEM\AcerLogs,ScanState.log,11067794
+/OEM\AcerLogs,SCD_WinPE.log,213510
+/OEM\AcerLogs,ScreenShot.png,38177
+/OEM\AcerLogs,Useralaunch.log,1220294
+/OEM\AcerLogs,WatchDog_AlaunchX.log,4776
+/OEM\AcerLogs,Watchdog_AlaunchXReboot.log,153495
+/OEM\AcerLogs,WinPE.log,514
+/OEM\AcerLogs\AlaunchXLogs,AlaunchX_BeforeOOBE2017-12-19 17-29-02-007.log,147992
+/OEM\AcerLogs\AlaunchXLogs,AlaunchX_FirstBoot2018-09-21 10-15-19-789.log,341760
+/OEM\AcerLogs\AlaunchXLogs,AlaunchX_User2017-12-19 17-34-22-730.log,493903
+/OEM\AcerLogs\AlaunchXLogs,AlaunchX_User2017-12-19 17-48-25-528.log,427794
+/OEM\AcerLogs\AlaunchXLogs,AlaunchX_User2017-12-19 17-53-29-951.log,428066
+/OEM\AcerLogs\AlaunchXLogs,AlaunchX_User2017-12-19 18-00-45-831.log,432902
+/OEM\AcerLogs\AlaunchXLogs,AlaunchX_User2017-12-19 18-03-32-686.log,428050
+/OEM\AcerLogs\AlaunchXLogs,AlaunchX_User2017-12-19 18-09-36-465.log,434444
+/OEM\AcerLogs\AlaunchXLogs,AlaunchX_User2017-12-19 18-13-42-075.log,426695
+/OEM\AcerLogs\AlaunchXLogs,AlaunchX_User2017-12-19 18-16-02-330.log,513676
+/OEM\AcerLogs\AlaunchXLogs,AlaunchX_User2017-12-19 18-23-04-668.log,444744
+/OEM\AcerLogs\AlaunchXLogs,AlaunchX_User2017-12-19 18-39-12-168.log,597405
+/OEM\AcerLogs\AlaunchXLogs,AlaunchX_User2017-12-19 19-05-54-646.log,431035
+/OEM\AcerLogs\AlaunchXLogs,AlaunchX_User2017-12-19 19-09-35-166.log,431448
+/OEM\AcerLogs\AlaunchXLogs,AlaunchX_User2017-12-19 19-11-30-465.log,464075
+/OEM\AcerLogs\DISM_SCDWinPE\dism,dism.log,1710575
+/OEM\AcerLogs\DISM_SCDWinPE\dism,dism.log.bak,40097277
+/OEM\AcerLogs\DriverSourceController,DriverSourceController_2017_12_19_18_59_00_267.log,5303
+/OEM\AcerLogs\ManagerXLogs,ManagerX2017-06-07 09-39-28-361.log,1704238
+/OEM\AcerLogs\ManagerXLogs,ManagerX2017-06-07 11-55-28-633.log,810055
+/OEM\AcerLogs\MRDCreaterX,MRDCreaterX2017-12-19 17-21-17-556.log,114339
+/OEM\AcerLogs\MRDCreaterX,MRDCreaterX2017-12-19 19-27-50-129.log,120832
+/OEM\AcerLogs\MRDCreaterX,MRDCreaterX2017-12-19 19-27-50-176.log,112251
+/OEM\AcerLogs\PatchCDLog,PCD000000002W6.log,3476
+/OEM\AcerLogs\PatchCDLog,PCD000000002X2.log,3294
+/OEM\AcerLogs\PatchCDLog,PCD000000002Z3.log,3420
+/OEM\AcerLogs\PreloadXLogs,PAP010RQ65X70C61.csv,12779
+/OEM\AcerLogs\PreloadXLogs,PAT01000600000AP.csv,235
+/OEM\AcerLogs\PreloadXLogs,PAT01000610000TH.csv,990
+/OEM\AcerLogs\PreloadXLogs,PAT01000610000VV.csv,306
+/OEM\AcerLogs\PreloadXLogs,PreInstallFromLPCD.csv,275
+/OEM\AcerLogs\PreloadXLogs,PreloadX2017-06-07 12-03-15-134.log,572990
+/OEM\AcerLogs\PreloadXLogs,PreloadX_Patch2017-12-19 16-05-42-377.log,1073783
+/OEM\Amundsen2\apps,ended.json,177
+/OEM\Amundsen2\apps\4c550002-18082300,campaign.lsm,751
+/OEM\Amundsen2\apps\5d770001-18091001,campaign.lsm,751
+/OEM\Amundsen2\apps\5d770002-18091001,campaign.lsm,746
+/OEM\Amundsen2\apps\5d770002-18091001,config.zip,11513
+/OEM\Amundsen2\apps\5d770002-18091001,source.zip,331176
+/OEM\Amundsen2\apps\5d770002-18091001\config,AresCheck.cmd,195
+/OEM\Amundsen2\apps\5d770002-18091001\config,AresCheck.inf,16
+/OEM\Amundsen2\apps\5d770002-18091001\config,AresCheck2020.inf,17
+/OEM\Amundsen2\apps\5d770002-18091001\config,AresCheck2040.inf,16
+/OEM\Amundsen2\apps\5d770002-18091001\config,AresLabel.cmd,75
+/OEM\Amundsen2\apps\5d770002-18091001\config,AresLabel.inf,10
+/OEM\Amundsen2\apps\5d770002-18091001\config,HermesAdHoc_3.0.18135.2_signed.exe,17712
+/OEM\Amundsen2\apps\5d770002-18091001\config,metadata.json,607
+/OEM\Amundsen2\apps\5d770002-18091001\source,AresInst.cmd,126
+/OEM\Amundsen2\apps\5d770002-18091001\source,SetupHermes_3.1.18240.4_signed.msi,385024
+/OEM\Amundsen2\apps\9191ac8d-18040500,campaign.lsm,751
+/OEM\Amundsen2\device,amundsen.lsm,386
+/OEM\Amundsen2\device,AmundsenTask.xml,4714
+/OEM\Amundsen2\device,awc.log,56117
+/OEM\Amundsen2\device,catalog.json,461
+/OEM\Amundsen2\device,profile.json,415
+/OEM\CareCenter,Machine_infomation.ini,576
+/OEM\CareCenter\DebugLog,2018-09-21_10-40-30.log,419
+/OEM\CareCenter\DebugLog,2018-09-21_11-52-07.log,833
+/OEM\CareCenter\DebugLog,2018-09-21_12-30-57.log,64008
+/OEM\CareCenter\DebugLog,2018-09-21_13-30-19.log,4173
+/OEM\CareCenter\DebugLog,2018-09-21_14-30-19.log,4173
+/OEM\CareCenter\DebugLog,2018-09-21_16-30-18.log,4173
+/OEM\CareCenter\DebugLog,2019-05-18_01-38-42.log,833
+/OEM\CareCenter\DebugLog,2019-05-18_02-03-44.log,833
+/OEM\CareCenter\DebugLog,2019-05-18_03-03-44.log,833
+/OEM\CareCenter\DebugLog,2019-05-18_04-03-44.log,833
+/OEM\CareCenter\DebugLog,2019-05-18_05-03-44.log,833
+/OEM\CareCenter\DebugLog,2019-05-18_06-03-44.log,833
+/OEM\CareCenter\DebugLog,2019-05-18_07-03-44.log,23627
+/OEM\CareCenter\DebugLog,2019-05-18_08-03-44.log,4173
+/OEM\CareCenter\DebugLog,2019-05-18_09-03-44.log,4173
+/OEM\CareCenter\DebugLog,2019-05-18_10-03-44.log,4173
+/OEM\CareCenter\DebugLog,2019-05-18_11-03-44.log,4173
+/OEM\CareCenter\DebugLog,2019-05-18_12-03-44.log,4173
+/OEM\CareCenter\DebugLog,2019-05-18_13-03-44.log,4173
+/OEM\CareCenter\DebugLog,2019-05-18_14-03-44.log,4173
+/OEM\CareCenter\DebugLog,2019-05-18_15-03-44.log,4173
+/OEM\CareCenter\DebugLog,2019-05-18_16-03-44.log,4173
+/OEM\CareCenter\DebugLog,2019-06-03_13-50-54.log,18360
+/OEM\CareCenter\DebugLog,2019-06-03_14-50-54.log,23187
+/OEM\CareCenter\DebugLog,2019-06-03_15-50-54.log,4173
+/OEM\CareCenter\DebugLog,2019-06-03_16-50-54.log,4173
+/OEM\CareCenter\DebugLog,2019-06-03_17-50-54.log,4173
+/OEM\CareCenter\DebugLog,2019-06-03_18-50-54.log,4173
+/OEM\CareCenter\DebugLog,2019-06-04_10-07-37.log,4173
+/OEM\CareCenter\DebugLog,2019-06-04_11-07-36.log,4173
+/OEM\CareCenter\DebugLog,2019-06-04_12-07-36.log,4173
+/OEM\CareCenter\DebugLog,2019-06-04_13-07-36.log,4173
+/OEM\CareCenter\DebugLog,2019-06-04_14-07-36.log,4173
+/OEM\CareCenter\DebugLog,2019-07-23_13-13-55.log,23366
+/OEM\CareCenter\DebugLog,2019-07-23_15-14-02.log,4352
+/OEM\CareCenter\DebugLog,2019-07-23_16-14-34.log,4173
+/OEM\CareCenter\DebugLog,2019-07-23_17-13-56.log,4173
+/OEM\CareCenter\DebugLog,2019-07-23_20-48-31.log,833
+/OEM\CareCenter\DebugLog,2019-07-24_09-06-16.log,4173
+/OEM\CareCenter\DebugLog,2019-07-24_09-13-54.log,4173
+/OEM\CareCenter\DebugLog,2019-07-24_10-14-09.log,903
+/OEM\CareCenter\DebugLog,2019-07-24_11-13-56.log,4173
+/OEM\CareCenter\DebugLog,2019-07-24_12-13-57.log,903
+/OEM\CareCenter\DebugLog,2019-07-24_13-13-56.log,903
+/OEM\CareCenter\DebugLog,2019-07-24_13-53-57.log,4352
+/OEM\CareCenter\DebugLog,2019-07-24_14-53-59.log,4173
+/OEM\CareCenter\DebugLog,2019-07-24_15-53-57.log,4173
+/OEM\CareCenter\DebugLog,2019-07-24_16-53-57.log,4173
+/OEM\CareCenter\DebugLog,2019-07-25_09-55-08.log,4287
+/OEM\CareCenter\DebugLog,2019-07-25_10-53-58.log,4173
+/OEM\CareCenter\DebugLog,2019-07-25_11-53-57.log,4173
+/OEM\CareCenter\DebugLog,2019-07-25_13-53-57.log,4287
+/OEM\CareCenter\DebugLog,2019-07-25_14-53-58.log,4287
+/OEM\CareCenter\DebugLog,2019-07-25_15-53-57.log,4173
+/OEM\CareCenter\DebugLog,2019-07-25_16-54-00.log,903
+/OEM\CareCenter\DebugLog,2019-07-26_09-14-32.log,4352
+/OEM\CareCenter\DebugLog,2019-07-26_10-14-32.log,4173
+/OEM\CareCenter\DebugLog,2019-07-26_11-14-31.log,4173
+/OEM\CareCenter\DebugLog,2019-07-26_12-14-32.log,903
+/OEM\CareCenter\DebugLog,2019-07-26_13-15-59.log,0
+/OEM\CareCenter\DebugLog,2019-07-26_14-14-32.log,4173
+/OEM\CareCenter\DebugLog,2019-07-26_15-14-32.log,4173
+/OEM\CareCenter\DebugLog,2019-07-26_16-14-31.log,4173
+/OEM\CareCenter\DebugLog,2019-07-26_17-14-31.log,903
+/OEM\CareCenter\DebugLog,2019-07-29_09-00-44.log,833
+/OEM\CareCenter\DebugLog,2019-07-29_09-14-32.log,4173
+/OEM\CareCenter\DebugLog,2019-07-29_10-14-31.log,4173
+/OEM\CareCenter\DebugLog,2019-07-29_11-14-34.log,4173
+/OEM\CareCenter\DebugLog,2019-07-29_12-14-32.log,903
+/OEM\CareCenter\DebugLog,2019-07-29_13-14-34.log,4173
+/OEM\CareCenter\DebugLog,2019-07-29_14-14-34.log,903
+/OEM\CareCenter\DebugLog,2019-07-29_15-14-34.log,4173
+/OEM\CareCenter\DebugLog,2019-07-29_16-14-31.log,4173
+/OEM\CareCenter\DebugLog,2019-07-29_17-14-34.log,4173
+/OEM\CareCenter\DebugLog,2019-07-30_09-02-16.log,4173
+/OEM\CareCenter\DebugLog,2019-07-30_09-14-32.log,4173
+/OEM\CareCenter\DebugLog,2019-07-30_10-14-34.log,4173
+/OEM\CareCenter\DebugLog,2019-07-30_11-14-34.log,4173
+/OEM\CareCenter\DebugLog,2019-07-30_12-14-34.log,903
+/OEM\CareCenter\DebugLog,2019-07-30_13-14-32.log,4173
+/OEM\CareCenter\DebugLog,2019-07-30_14-14-34.log,4173
+/OEM\CareCenter\DebugLog,2019-07-30_15-14-34.log,23187
+/OEM\CareCenter\DebugLog,2019-07-30_16-14-34.log,4173
+/OEM\CareCenter\DebugLog,2019-07-30_17-14-32.log,4173
+/OEM\CareCenter\DebugLog,2019-07-30_18-14-33.log,4173
+/OEM\CareCenter\DebugLog,2019-07-30_19-14-31.log,4173
+/OEM\CareCenter\DebugLog,2019-07-31_09-14-36.log,4173
+/OEM\CareCenter\DebugLog,2019-07-31_10-14-31.log,4173
+/OEM\CareCenter\DebugLog,2019-07-31_11-14-31.log,4173
+/OEM\CareCenter\DebugLog,2019-07-31_12-14-31.log,4173
+/OEM\CareCenter\DebugLog,2019-07-31_13-14-31.log,4173
+/OEM\CareCenter\DebugLog,2019-07-31_14-14-32.log,4173
+/OEM\CareCenter\DebugLog,2019-07-31_15-14-37.log,4173
+/OEM\CareCenter\DebugLog,2019-07-31_16-14-31.log,4173
+/OEM\CareCenter\DebugLog,2019-07-31_17-14-31.log,4173
+/OEM\CareCenter\DebugLog,2019-08-01_08-57-07.log,903
+/OEM\CareCenter\DebugLog,2019-08-01_09-14-36.log,4173
+/OEM\CareCenter\DebugLog,2019-08-01_10-14-37.log,4173
+/OEM\CareCenter\DebugLog,2019-08-01_10-37-29.log,4352
+/OEM\CareCenter\DebugLog,2019-08-01_11-37-29.log,903
+/OEM\CareCenter\DebugLog,2019-08-01_12-48-55.log,903
+/OEM\CareCenter\DebugLog,2019-08-01_13-48-54.log,903
+/OEM\CareCenter\DebugLog,2019-08-01_14-48-56.log,4352
+/OEM\CareCenter\DebugLog,2019-08-01_15-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-01_16-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-01_17-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-01_21-01-12.log,419
+/OEM\CareCenter\DebugLog,2019-08-02_09-09-18.log,4173
+/OEM\CareCenter\DebugLog,2019-08-02_09-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-02_10-48-54.log,489
+/OEM\CareCenter\DebugLog,2019-08-02_11-48-56.log,4173
+/OEM\CareCenter\DebugLog,2019-08-02_12-48-56.log,4173
+/OEM\CareCenter\DebugLog,2019-08-02_13-48-56.log,4173
+/OEM\CareCenter\DebugLog,2019-08-02_14-48-56.log,4173
+/OEM\CareCenter\DebugLog,2019-08-02_15-48-56.log,4173
+/OEM\CareCenter\DebugLog,2019-08-02_16-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-02_17-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-05_09-02-08.log,4173
+/OEM\CareCenter\DebugLog,2019-08-05_09-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-05_10-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-05_11-48-54.log,903
+/OEM\CareCenter\DebugLog,2019-08-05_12-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-05_13-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-05_14-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-05_15-48-54.log,903
+/OEM\CareCenter\DebugLog,2019-08-05_16-48-54.log,903
+/OEM\CareCenter\DebugLog,2019-08-05_20-21-51.log,903
+/OEM\CareCenter\DebugLog,2019-08-06_08-49-00.log,903
+/OEM\CareCenter\DebugLog,2019-08-06_09-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-06_10-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-06_11-48-54.log,903
+/OEM\CareCenter\DebugLog,2019-08-06_12-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-06_13-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-06_14-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-06_15-48-54.log,23187
+/OEM\CareCenter\DebugLog,2019-08-06_16-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-06_17-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-07_04-48-54.log,903
+/OEM\CareCenter\DebugLog,2019-08-07_10-48-57.log,4173
+/OEM\CareCenter\DebugLog,2019-08-07_11-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-07_12-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-07_13-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-07_14-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-07_15-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-07_16-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-07_17-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-07_18-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-07_19-48-58.log,4173
+/OEM\CareCenter\DebugLog,2019-08-08_09-48-59.log,4173
+/OEM\CareCenter\DebugLog,2019-08-08_10-48-54.log,903
+/OEM\CareCenter\DebugLog,2019-08-08_11-48-54.log,903
+/OEM\CareCenter\DebugLog,2019-08-08_12-48-54.log,903
+/OEM\CareCenter\DebugLog,2019-08-08_13-48-54.log,903
+/OEM\CareCenter\DebugLog,2019-08-08_14-48-56.log,4173
+/OEM\CareCenter\DebugLog,2019-08-08_15-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-08_16-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-08_20-44-28.log,833
+/OEM\CareCenter\DebugLog,2019-08-09_09-48-56.log,4173
+/OEM\CareCenter\DebugLog,2019-08-09_10-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-09_11-48-54.log,903
+/OEM\CareCenter\DebugLog,2019-08-09_12-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-09_13-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-09_14-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-09_15-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-09_16-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-09_17-49-09.log,4173
+/OEM\CareCenter\DebugLog,2019-08-12_17-10-05.log,903
+/OEM\CareCenter\DebugLog,2019-08-13_08-49-55.log,4173
+/OEM\CareCenter\DebugLog,2019-08-13_09-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-13_10-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-13_11-48-54.log,489
+/OEM\CareCenter\DebugLog,2019-08-13_12-48-54.log,489
+/OEM\CareCenter\DebugLog,2019-08-13_13-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-13_14-48-56.log,4173
+/OEM\CareCenter\DebugLog,2019-08-13_15-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-13_16-48-57.log,23187
+/OEM\CareCenter\DebugLog,2019-08-14_08-48-58.log,903
+/OEM\CareCenter\DebugLog,2019-08-14_09-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-14_10-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-14_11-48-54.log,903
+/OEM\CareCenter\DebugLog,2019-08-14_12-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-14_13-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-14_14-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-14_15-49-27.log,903
+/OEM\CareCenter\DebugLog,2019-08-14_16-48-59.log,903
+/OEM\CareCenter\DebugLog,2019-08-15_08-38-59.log,4173
+/OEM\CareCenter\DebugLog,2019-08-15_08-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-15_09-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-15_10-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-15_11-48-54.log,903
+/OEM\CareCenter\DebugLog,2019-08-15_12-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-15_13-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-15_14-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-15_15-48-58.log,4173
+/OEM\CareCenter\DebugLog,2019-08-15_16-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-15_17-48-56.log,903
+/OEM\CareCenter\DebugLog,2019-08-16_08-48-57.log,4173
+/OEM\CareCenter\DebugLog,2019-08-16_09-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-16_10-48-54.log,903
+/OEM\CareCenter\DebugLog,2019-08-16_11-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-16_12-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-16_13-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-16_14-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-16_15-48-58.log,4173
+/OEM\CareCenter\DebugLog,2019-08-16_16-48-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-19_09-14-25.log,4352
+/OEM\CareCenter\DebugLog,2019-08-19_10-14-27.log,4173
+/OEM\CareCenter\DebugLog,2019-08-19_11-14-26.log,4173
+/OEM\CareCenter\DebugLog,2019-08-19_12-14-27.log,903
+/OEM\CareCenter\DebugLog,2019-08-19_13-14-26.log,903
+/OEM\CareCenter\DebugLog,2019-08-19_14-14-27.log,4173
+/OEM\CareCenter\DebugLog,2019-08-19_15-14-25.log,4173
+/OEM\CareCenter\DebugLog,2019-08-19_16-14-25.log,4173
+/OEM\CareCenter\DebugLog,2019-08-19_17-14-27.log,4173
+/OEM\CareCenter\DebugLog,2019-08-19_18-14-26.log,833
+/OEM\CareCenter\DebugLog,2019-08-19_19-14-26.log,833
+/OEM\CareCenter\DebugLog,2019-08-19_20-14-25.log,833
+/OEM\CareCenter\DebugLog,2019-08-20_08-51-47.log,833
+/OEM\CareCenter\DebugLog,2019-08-20_09-14-25.log,4173
+/OEM\CareCenter\DebugLog,2019-08-20_10-14-25.log,4173
+/OEM\CareCenter\DebugLog,2019-08-20_11-14-26.log,4173
+/OEM\CareCenter\DebugLog,2019-08-20_12-14-26.log,903
+/OEM\CareCenter\DebugLog,2019-08-20_13-14-25.log,4173
+/OEM\CareCenter\DebugLog,2019-08-20_14-14-25.log,4173
+/OEM\CareCenter\DebugLog,2019-08-20_15-14-25.log,4173
+/OEM\CareCenter\DebugLog,2019-08-20_16-14-26.log,903
+/OEM\CareCenter\DebugLog,2019-08-20_17-14-25.log,23187
+/OEM\CareCenter\DebugLog,2019-08-22_08-56-16.log,903
+/OEM\CareCenter\DebugLog,2019-08-22_09-14-25.log,4173
+/OEM\CareCenter\DebugLog,2019-08-22_09-57-34.log,4352
+/OEM\CareCenter\DebugLog,2019-08-22_10-57-34.log,4173
+/OEM\CareCenter\DebugLog,2019-08-22_11-57-34.log,903
+/OEM\CareCenter\DebugLog,2019-08-22_12-57-34.log,903
+/OEM\CareCenter\DebugLog,2019-08-22_13-57-34.log,4173
+/OEM\CareCenter\DebugLog,2019-08-22_14-57-34.log,4173
+/OEM\CareCenter\DebugLog,2019-08-22_15-57-34.log,903
+/OEM\CareCenter\DebugLog,2019-08-22_16-57-34.log,4173
+/OEM\CareCenter\DebugLog,2019-08-22_19-11-12.log,320
+/OEM\CareCenter\DebugLog,2019-08-23_08-36-52.log,4173
+/OEM\CareCenter\DebugLog,2019-08-23_08-57-34.log,4173
+/OEM\CareCenter\DebugLog,2019-08-23_09-57-34.log,4173
+/OEM\CareCenter\DebugLog,2019-08-23_10-57-34.log,4173
+/OEM\CareCenter\DebugLog,2019-08-23_11-57-38.log,903
+/OEM\CareCenter\DebugLog,2019-08-23_12-57-36.log,4173
+/OEM\CareCenter\DebugLog,2019-08-23_13-57-34.log,4173
+/OEM\CareCenter\DebugLog,2019-08-23_14-57-34.log,4173
+/OEM\CareCenter\DebugLog,2019-08-27_08-51-40.log,4173
+/OEM\CareCenter\DebugLog,2019-08-27_08-57-34.log,903
+/OEM\CareCenter\DebugLog,2019-08-27_09-57-34.log,4173
+/OEM\CareCenter\DebugLog,2019-08-27_10-57-34.log,903
+/OEM\CareCenter\DebugLog,2019-08-27_11-57-34.log,4173
+/OEM\CareCenter\DebugLog,2019-08-27_12-57-34.log,4173
+/OEM\CareCenter\DebugLog,2019-08-27_13-57-34.log,4173
+/OEM\CareCenter\DebugLog,2019-08-27_14-57-34.log,4173
+/OEM\CareCenter\DebugLog,2019-08-27_15-57-37.log,4173
+/OEM\CareCenter\DebugLog,2019-08-27_16-57-36.log,4173
+/OEM\CareCenter\DebugLog,2019-08-28_09-02-21.log,23187
+/OEM\CareCenter\DebugLog,2019-08-28_10-02-21.log,4173
+/OEM\CareCenter\DebugLog,2019-08-28_11-02-21.log,4173
+/OEM\CareCenter\DebugLog,2019-08-28_12-02-21.log,903
+/OEM\CareCenter\DebugLog,2019-08-28_13-02-21.log,4173
+/OEM\CareCenter\DebugLog,2019-08-28_14-02-24.log,903
+/OEM\CareCenter\DebugLog,2019-08-28_15-02-26.log,4173
+/OEM\CareCenter\DebugLog,2019-08-28_16-02-21.log,903
+/OEM\CareCenter\DebugLog,2019-08-28_17-02-21.log,4173
+/OEM\CareCenter\DebugLog,2019-08-29_09-14-52.log,833
+/OEM\CareCenter\DebugLog,2019-08-29_10-14-52.log,4173
+/OEM\CareCenter\DebugLog,2019-08-29_11-14-52.log,4173
+/OEM\CareCenter\DebugLog,2019-08-29_13-14-51.log,4173
+/OEM\CareCenter\DebugLog,2019-08-29_14-14-52.log,4173
+/OEM\CareCenter\DebugLog,2019-08-29_15-14-51.log,4173
+/OEM\CareCenter\DebugLog,2019-08-29_16-14-51.log,4173
+/OEM\CareCenter\DebugLog,2019-08-29_17-14-51.log,4173
+/OEM\CareCenter\DebugLog,2019-08-29_18-14-52.log,833
+/OEM\CareCenter\DebugLog,2019-08-29_19-14-52.log,833
+/OEM\CareCenter\DebugLog,2019-08-29_20-14-52.log,833
+/OEM\CareCenter\DebugLog,2019-08-30_08-25-40.log,833
+/OEM\CareCenter\DebugLog,2019-08-30_09-14-52.log,4173
+/OEM\CareCenter\DebugLog,2019-08-30_10-14-53.log,4173
+/OEM\CareCenter\DebugLog,2019-08-30_11-14-55.log,4173
+/OEM\CareCenter\DebugLog,2019-08-30_12-14-54.log,903
+/OEM\CareCenter\DebugLog,2019-08-30_14-14-54.log,4173
+/OEM\CareCenter\DebugLog,2019-08-30_15-16-17.log,4173
+/OEM\CareCenter\DebugLog,2019-08-30_16-14-57.log,4173
+/OEM\CareCenter\DebugLog,2019-08-30_17-14-54.log,4173
+/OEM\CareCenter\DebugLog,2019-09-02_09-14-52.log,903
+/OEM\CareCenter\DebugLog,2019-09-02_10-14-54.log,4173
+/OEM\CareCenter\DebugLog,2019-09-02_11-49-03.log,903
+/OEM\CareCenter\DebugLog,2019-09-02_12-57-32.log,4352
+/OEM\CareCenter\DebugLog,2019-09-02_13-33-29.log,4352
+/OEM\CareCenter\DebugLog,2019-09-02_14-33-28.log,4173
+/OEM\CareCenter\DebugLog,2019-09-02_15-33-30.log,4173
+/OEM\CareCenter\DebugLog,2019-09-02_16-33-28.log,4173
+/OEM\CareCenter\DebugLog,2019-09-02_17-33-29.log,4173
+/OEM\CareCenter\DebugLog,2019-09-03_09-01-53.log,4352
+/OEM\CareCenter\DebugLog,2019-09-03_10-01-51.log,4173
+/OEM\CareCenter\DebugLog,2019-09-03_11-01-51.log,4173
+/OEM\CareCenter\DebugLog,2019-09-03_12-01-53.log,903
+/OEM\CareCenter\DebugLog,2019-09-03_13-01-52.log,4173
+/OEM\CareCenter\DebugLog,2019-09-03_14-01-52.log,4173
+/OEM\CareCenter\DebugLog,2019-09-03_15-01-51.log,4173
+/OEM\CareCenter\DebugLog,2019-09-03_16-01-51.log,903
+/OEM\CareCenter\DebugLog,2019-09-03_17-01-51.log,4173
+/OEM\CareCenter\DebugLog,2019-09-03_20-48-18.log,903
+/OEM\CareCenter\DebugLog,2019-09-04_09-01-54.log,4173
+/OEM\CareCenter\DebugLog,2019-09-04_10-01-55.log,23187
+/OEM\CareCenter\DebugLog,2019-09-04_11-01-57.log,4173
+/OEM\CareCenter\DebugLog,2019-09-04_12-01-51.log,4173
+/OEM\CareCenter\DebugLog,2019-09-04_13-02-00.log,4173
+/OEM\CareCenter\DebugLog,2019-09-04_14-01-55.log,903
+/OEM\CareCenter\DebugLog,2019-09-04_15-01-56.log,4173
+/OEM\CareCenter\DebugLog,2019-09-04_16-01-57.log,4173
+/OEM\CareCenter\DebugLog,2019-09-04_17-11-02.log,4352
+/OEM\CareCenter\DebugLog,2019-09-04_19-10-51.log,4173
+/OEM\CareCenter\DebugLog,2019-09-04_20-10-50.log,4173
+/OEM\CareCenter\DebugLog,2019-09-05_08-10-50.log,4173
+/OEM\CareCenter\DebugLog,2019-09-05_09-10-52.log,4173
+/OEM\CareCenter\DebugLog,2019-09-05_10-10-52.log,4173
+/OEM\CareCenter\DebugLog,2019-09-05_11-10-52.log,4173
+/OEM\CareCenter\DebugLog,2019-09-05_12-10-54.log,903
+/OEM\CareCenter\DebugLog,2019-09-05_13-10-49.log,4173
+/OEM\CareCenter\DebugLog,2019-09-05_14-10-49.log,903
+/OEM\CareCenter\DebugLog,2019-09-05_15-10-49.log,4173
+/OEM\CareCenter\DebugLog,2019-09-05_16-10-49.log,4173
+/OEM\CareCenter\DebugLog,2019-09-05_17-10-49.log,4173
+/OEM\CareCenter\DebugLog,2019-09-05_18-10-52.log,903
+/OEM\CareCenter\DebugLog,2019-09-05_19-10-52.log,903
+/OEM\CareCenter\DebugLog,2019-09-05_20-10-52.log,903
+/OEM\CareCenter\DebugLog,2019-09-06_09-10-55.log,4173
+/OEM\CareCenter\DebugLog,2019-09-06_10-11-06.log,4173
+/OEM\CareCenter\DebugLog,2019-09-06_11-10-49.log,4173
+/OEM\CareCenter\DebugLog,2019-09-06_12-15-49.log,489
+/OEM\CareCenter\DebugLog,2019-09-06_13-10-52.log,903
+/OEM\CareCenter\DebugLog,2019-09-06_14-10-51.log,4173
+/OEM\CareCenter\DebugLog,2019-09-06_15-12-12.log,4173
+/OEM\CareCenter\DebugLog,2019-09-06_16-10-52.log,4173
+/OEM\CareCenter\DebugLog,2019-09-06_17-10-49.log,4173
+/OEM\CareCenter\DebugLog,2019-09-06_18-11-01.log,4173
+/OEM\CareCenter\DebugLog,2019-09-09_09-10-51.log,4173
+/OEM\CareCenter\DebugLog,2019-09-09_10-15-36.log,4352
+/OEM\CareCenter\DebugLog,2019-09-09_11-15-36.log,4173
+/OEM\CareCenter\DebugLog,2019-09-09_12-15-36.log,903
+/OEM\CareCenter\DebugLog,2019-09-09_13-15-38.log,4173
+/OEM\CareCenter\DebugLog,2019-09-09_14-15-36.log,4173
+/OEM\CareCenter\DebugLog,2019-09-09_15-15-36.log,4173
+/OEM\CareCenter\DebugLog,2019-09-09_16-15-37.log,4173
+/OEM\CareCenter\DebugLog,2019-09-09_17-15-39.log,4173
+/OEM\CareCenter\DebugLog,2019-09-10_09-02-37.log,903
+/OEM\CareCenter\DebugLog,2019-09-10_09-15-36.log,4173
+/OEM\CareCenter\DebugLog,2019-09-10_10-15-37.log,4173
+/OEM\CareCenter\DebugLog,2019-09-10_11-15-36.log,4173
+/OEM\CareCenter\DebugLog,2019-09-10_12-15-39.log,4173
+/OEM\CareCenter\DebugLog,2019-09-10_13-15-39.log,4173
+/OEM\CareCenter\DebugLog,2019-09-10_14-15-51.log,4352
+/OEM\CareCenter\DebugLog,2019-09-10_15-01-16.log,4352
+/OEM\CareCenter\DebugLog,2019-09-10_16-01-18.log,4173
+/OEM\CareCenter\DebugLog,2019-09-11_10-22-15.log,23366
+/OEM\CareCenter\DebugLog,2019-09-11_11-22-19.log,4173
+/OEM\CareCenter\DebugLog,2019-09-11_12-22-18.log,4173
+/OEM\CareCenter\DebugLog,2019-09-11_13-22-29.log,903
+/OEM\CareCenter\DebugLog,2019-09-11_14-22-18.log,4173
+/OEM\CareCenter\DebugLog,2019-09-11_15-22-22.log,903
+/OEM\CareCenter\DebugLog,2019-09-11_16-22-19.log,4173
+/OEM\CareCenter\DebugLog,2019-09-11_17-22-19.log,4173
+/OEM\CareCenter\DebugLog,2019-09-11_18-22-19.log,4173
+/OEM\CareCenter\DebugLog,2019-09-11_19-22-19.log,4173
+/OEM\CareCenter\DebugLog,2019-09-11_20-22-15.log,4173
+/OEM\CareCenter\DebugLog,2019-09-12_08-54-45.log,4352
+/OEM\CareCenter\DebugLog,2019-09-12_09-54-46.log,4173
+/OEM\CareCenter\DebugLog,2019-09-12_10-54-48.log,4173
+/OEM\CareCenter\DebugLog,2019-09-12_11-54-47.log,4173
+/OEM\CareCenter\DebugLog,2019-09-12_12-54-45.log,4173
+/OEM\CareCenter\DebugLog,2019-09-12_13-54-45.log,4173
+/OEM\CareCenter\DebugLog,2019-09-12_14-54-48.log,903
+/OEM\CareCenter\DebugLog,2019-09-12_15-54-48.log,4173
+/OEM\CareCenter\DebugLog,2019-09-12_16-54-50.log,4173
+/OEM\CareCenter\DebugLog,2019-09-12_17-54-45.log,4173
+/OEM\CareCenter\DebugLog,2019-09-12_18-54-48.log,903
+/OEM\CareCenter\DebugLog,2019-09-12_19-54-43.log,4173
+/OEM\CareCenter\DebugLog,2019-09-12_20-54-43.log,4173
+/OEM\CareCenter\DebugLog,2019-09-12_21-54-43.log,4173
+/OEM\CareCenter\DebugLog,2019-09-12_22-54-43.log,4173
+/OEM\CareCenter\DebugLog,2019-09-12_23-54-43.log,903
+/OEM\CareCenter\DebugLog,2019-09-13_00-54-48.log,4173
+/OEM\CareCenter\DebugLog,2019-09-13_01-54-49.log,4173
+/OEM\CareCenter\DebugLog,2019-09-13_02-54-49.log,4173
+/OEM\CareCenter\DebugLog,2019-09-13_03-54-49.log,4173
+/OEM\CareCenter\DebugLog,2019-09-13_04-54-48.log,4173
+/OEM\CareCenter\DebugLog,2019-09-13_07-54-57.log,4173
+/OEM\CareCenter\DebugLog,2019-09-13_09-54-49.log,903
+/OEM\CareCenter\DebugLog,2019-09-13_10-54-46.log,4173
+/OEM\CareCenter\DebugLog,2019-09-13_15-07-31.log,4173
+/OEM\CareCenter\DebugLog,2019-09-16_09-07-31.log,903
+/OEM\CareCenter\DebugLog,2019-09-16_10-07-31.log,4173
+/OEM\CareCenter\DebugLog,2019-09-16_11-07-31.log,4173
+/OEM\CareCenter\DebugLog,2019-09-16_13-07-33.log,4173
+/OEM\CareCenter\DebugLog,2019-09-16_14-07-33.log,903
+/OEM\CareCenter\DebugLog,2019-09-16_15-07-36.log,4173
+/OEM\CareCenter\DebugLog,2019-09-17_09-25-55.log,4173
+/OEM\CareCenter\DebugLog,2019-09-17_10-26-06.log,4173
+/OEM\CareCenter\DebugLog,2019-09-17_11-26-16.log,4173
+/OEM\CareCenter\DebugLog,2019-09-17_12-26-05.log,489
+/OEM\CareCenter\DebugLog,2019-09-17_13-25-55.log,4173
+/OEM\CareCenter\DebugLog,2019-09-17_14-25-59.log,4173
+/OEM\CareCenter\DebugLog,2019-09-17_15-25-55.log,4173
+/OEM\CareCenter\DebugLog,2019-09-17_15-59-49.log,4352
+/OEM\CareCenter\DebugLog,2019-09-18_09-59-50.log,4173
+/OEM\CareCenter\DebugLog,2019-09-18_10-59-49.log,23187
+/OEM\CareCenter\DebugLog,2019-09-18_11-59-49.log,903
+/OEM\CareCenter\DebugLog,2019-09-18_12-59-51.log,4173
+/OEM\CareCenter\DebugLog,2019-09-18_13-59-53.log,903
+/OEM\CareCenter\DebugLog,2019-09-18_14-59-53.log,4173
+/OEM\CareCenter\DebugLog,2019-09-18_15-59-51.log,4173
+/OEM\CareCenter\DebugLog,2019-09-18_16-59-52.log,4173
+/OEM\CareCenter\DebugLog,2019-09-19_09-41-07.log,4173
+/OEM\CareCenter\DebugLog,2019-09-19_10-14-20.log,4352
+/OEM\CareCenter\DebugLog,2019-09-19_11-13-49.log,4173
+/OEM\CareCenter\DebugLog,2019-09-19_12-13-49.log,903
+/OEM\CareCenter\DebugLog,2019-09-19_13-08-21.log,4352
+/OEM\CareCenter\DebugLog,2019-09-19_14-08-13.log,4173
+/OEM\CareCenter\DebugLog,2019-09-19_15-08-13.log,4173
+/OEM\CareCenter\DebugLog,2019-09-19_16-08-14.log,4173
+/OEM\CareCenter\DebugLog,2019-09-19_16-53-33.log,4466
+/OEM\CareCenter\DebugLog,2019-09-20_08-36-50.log,903
+/OEM\CareCenter\DebugLog,2019-09-20_09-37-29.log,4173
+/OEM\CareCenter\DebugLog,2019-09-20_10-36-56.log,4173
+/OEM\CareCenter\DebugLog,2019-09-20_11-37-25.log,4173
+/OEM\CareCenter\DebugLog,2019-09-20_12-36-55.log,4173
+/OEM\CareCenter\DebugLog,2019-09-20_13-36-52.log,4173
+/OEM\CareCenter\DebugLog,2019-09-20_14-37-14.log,4173
+/OEM\CareCenter\DebugLog,2019-09-20_16-26-05.log,4173
+/OEM\CareCenter\DebugLog,2019-09-20_16-37-05.log,4173
+/OEM\CareCenter\DebugLog,2019-09-23_09-09-32.log,4173
+/OEM\CareCenter\DebugLog,2019-09-23_09-36-50.log,4173
+/OEM\CareCenter\DebugLog,2019-09-23_10-36-57.log,4173
+/OEM\CareCenter\DebugLog,2019-09-23_11-36-55.log,4173
+/OEM\CareCenter\DebugLog,2019-09-25_08-09-22.log,4173
+/OEM\CareCenter\DebugLog,2019-09-25_09-09-25.log,4173
+/OEM\CareCenter\DebugLog,2019-09-25_10-09-22.log,903
+/OEM\CareCenter\DebugLog,2019-09-25_11-09-22.log,903
+/OEM\CareCenter\DebugLog,2019-09-25_12-09-22.log,903
+/OEM\CareCenter\DebugLog,2019-09-25_13-09-22.log,903
+/OEM\CareCenter\DebugLog,2019-09-25_14-09-22.log,903
+/OEM\CareCenter\DebugLog,2019-09-25_15-09-22.log,903
+/OEM\CareCenter\DebugLog,2019-09-25_16-09-22.log,23187
+/OEM\CareCenter\DebugLog,2019-09-25_16-52-57.log,4352
+/OEM\CareCenter\DebugLog,2019-09-27_14-22-14.log,4352
+/OEM\CareCenter\DebugLog,2019-09-30_08-33-08.log,833
+/OEM\CareCenter\DebugLog,2019-09-30_09-33-17.log,4173
+/OEM\CareCenter\DebugLog,2019-09-30_10-33-09.log,903
+/OEM\CareCenter\DebugLog,2019-09-30_11-33-08.log,4173
+/OEM\CareCenter\DebugLog,2019-09-30_12-33-08.log,833
+/OEM\CareCenter\DebugLog,2019-09-30_13-33-08.log,903
+/OEM\CareCenter\DebugLog,2019-09-30_14-33-08.log,903
+/OEM\CareCenter\DebugLog,2019-09-30_16-33-08.log,4173
+/OEM\CareCenter\DebugLog,2019-09-30_17-33-08.log,4173
+/OEM\CareCenter\DebugLog,2019-10-01_08-34-04.log,4173
+/OEM\CareCenter\DebugLog,2019-10-01_09-34-04.log,4173
+/OEM\CareCenter\DebugLog,2019-10-01_10-34-04.log,4173
+/OEM\CareCenter\DebugLog,2019-10-01_11-34-04.log,4173
+/OEM\CareCenter\DebugLog,2019-10-01_13-34-05.log,4173
+/OEM\CareCenter\DebugLog,2019-10-01_14-34-04.log,4173
+/OEM\CareCenter\DebugLog,2019-10-01_15-34-04.log,4173
+/OEM\CareCenter\DebugLog,2019-10-01_16-34-05.log,4173
+/OEM\CareCenter\DebugLog,2019-10-01_17-34-04.log,4173
+/OEM\CareCenter\DebugLog,2019-10-02_08-31-53.log,4173
+/OEM\CareCenter\DebugLog,2019-10-02_09-31-52.log,4173
+/OEM\CareCenter\DebugLog,2019-10-02_10-31-52.log,4173
+/OEM\CareCenter\DebugLog,2019-10-02_11-31-52.log,4173
+/OEM\CareCenter\DebugLog,2019-10-02_12-31-52.log,4173
+/OEM\CareCenter\DebugLog,2019-10-02_13-31-52.log,4173
+/OEM\CareCenter\DebugLog,2019-10-02_14-31-53.log,4173
+/OEM\CareCenter\DebugLog,2019-10-02_15-31-52.log,4173
+/OEM\CareCenter\DebugLog,2019-10-02_16-31-52.log,23187
+/OEM\CareCenter\DebugLog,2019-10-03_08-53-47.log,4173
+/OEM\CareCenter\DebugLog,2019-10-03_09-53-47.log,903
+/OEM\CareCenter\DebugLog,2019-10-03_10-53-47.log,903
+/OEM\CareCenter\DebugLog,2019-10-03_11-53-47.log,903
+/OEM\CareCenter\DebugLog,2019-10-03_12-53-47.log,903
+/OEM\CareCenter\DebugLog,2019-10-03_13-53-47.log,4173
+/OEM\CareCenter\DebugLog,2019-10-03_14-53-47.log,4173
+/OEM\CareCenter\DebugLog,2019-10-03_15-53-47.log,903
+/OEM\CareCenter\DebugLog,2019-10-03_16-53-53.log,4173
+/OEM\CareCenter\DebugLog,2019-10-04_08-35-56.log,4173
+/OEM\CareCenter\DebugLog,2019-10-04_09-35-56.log,4173
+/OEM\CareCenter\DebugLog,2019-10-04_10-35-56.log,4173
+/OEM\CareCenter\DebugLog,2019-10-04_12-35-57.log,4173
+/OEM\CareCenter\DebugLog,2019-10-04_13-35-56.log,4173
+/OEM\CareCenter\DebugLog,2019-10-04_14-35-56.log,4173
+/OEM\CareCenter\DebugLog,2019-10-04_15-35-56.log,4173
+/OEM\CareCenter\DebugLog,2019-10-04_16-35-56.log,4173
+/OEM\CareCenter\DebugLog,2019-10-04_17-35-56.log,4173
+/OEM\CareCenter\DebugLog,2019-10-07_15-24-41.log,4173
+/OEM\CareCenter\DebugLog,2019-10-07_16-24-41.log,903
+/OEM\CareCenter\DebugLog,2019-10-07_17-46-54.log,4173
+/OEM\CareCenter\DebugLog,2019-10-08_12-18-24.log,4173
+/OEM\CareCenter\DebugLog,2019-10-08_16-01-22.log,489
+/OEM\CareCenter\DebugLog,2019-10-10_09-42-29.log,23187
+/OEM\CareCenter\DebugLog,2019-10-10_10-23-58.log,4352
+/OEM\CareCenter\DebugLog,2019-10-10_11-24-40.log,4173
+/OEM\CareCenter\DebugLog,2019-10-10_13-23-59.log,4173
+/OEM\CareCenter\DebugLog,2019-10-10_14-23-58.log,4173
+/OEM\CareCenter\DebugLog,2019-10-10_15-23-59.log,4173
+/OEM\CareCenter\DebugLog,2019-10-10_16-23-59.log,4173
+/OEM\CareCenter\DebugLog,2019-10-10_17-23-59.log,4173
+/OEM\CareCenter\DebugLog,2019-10-11_08-11-36.log,4352
+/OEM\CareCenter\DebugLog,2019-10-11_09-11-36.log,4173
+/OEM\CareCenter\DebugLog,2019-10-11_10-11-36.log,4173
+/OEM\CareCenter\DebugLog,2019-10-11_11-11-36.log,4173
+/OEM\CareCenter\DebugLog,2019-10-11_12-54-47.log,833
+/OEM\CareCenter\DebugLog,2019-10-11_13-11-36.log,4173
+/OEM\CareCenter\DebugLog,2019-10-11_14-11-36.log,4173
+/OEM\CareCenter\DebugLog,2019-10-11_15-11-36.log,4173
+/OEM\CareCenter\DebugLog,2019-10-11_16-11-36.log,4173
+/OEM\CareCenter\DebugLog,2019-10-14_08-27-08.log,4173
+/OEM\CareCenter\DebugLog,2019-10-14_09-27-08.log,4173
+/OEM\CareCenter\DebugLog,2019-10-14_10-27-08.log,4173
+/OEM\CareCenter\PreloadHWLog,Lyra_SK_TravelMateP259-G2-MG_W10PR64_RV06RC_75015770276(SNID)_20171219112614.xml,58782
+/OEM\CaringCenter\DRV\Intel Wireless LAN_M Intel WiFi 2x2 AC+ BT4.0 INT7265 NGFF,ACIP_Deploy.ini,216
+/OEM\CaringCenter\DRV\Intel Wireless LAN_M Intel WiFi 2x2 AC+ BT4.0 INT7265 NGFF,Detail.txt,92
+/OEM\CaringCenter\DRV\Intel Wireless LAN_M Intel WiFi 2x2 AC+ BT4.0 INT7265 NGFF,MOD01D00OM0061001Y.enc,3896
+/OEM\CaringCenter\DRV\Intel Wireless LAN_M Intel WiFi 2x2 AC+ BT4.0 INT7265 NGFF,Prepackage.xml,1530
+/OEM\CaringCenter\DRV\Intel Wireless LAN_M Intel WiFi 2x2 AC+ BT4.0 INT7265 NGFF,Setup.exe,1661408
+/OEM\CaringCenter\DRV\Intel Wireless LAN_M Intel WiFi 2x2 AC+ BT4.0 INT7265 NGFF,setup.xml,1450
+/OEM\CaringCenter\DRV\Intel Wireless LAN_M Intel WiFi 2x2 AC+ BT4.0 INT7265 NGFF\data,Driver.msi,32858112
+/OEM\CaringCenter\DRV\Intel Wireless LAN_M Intel WiFi 2x2 AC+ BT4.0 INT7265 NGFF\data,PROSetEnterprise.msi,28741632
+/OEM\CaringCenter\DRV\Intel Wireless LAN_M Intel WiFi 2x2 AC+ BT4.0 INT7265 NGFF\data,WiFi.msi,49672192
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0402.ini,24550
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0403.ini,25386
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0404.ini,10670
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0405.ini,23310
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0406.ini,23896
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0407.ini,25860
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0408.ini,27384
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0409.ini,22492
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x040a.ini,25140
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x040b.ini,22724
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x040c.ini,26270
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x040e.ini,23290
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0410.ini,25188
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0411.ini,14960
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0412.ini,14126
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0413.ini,25000
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0414.ini,23990
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0415.ini,24262
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0416.ini,23970
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0418.ini,24806
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0419.ini,23432
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x041a.ini,23614
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x041b.ini,23534
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x041d.ini,23354
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x041e.ini,22486
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x041f.ini,23034
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0421.ini,24738
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0424.ini,23950
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x042d.ini,23976
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0804.ini,10760
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0816.ini,24734
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0c0c.ini,26308
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,0x0c1a.ini,24040
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,ACIP_Deploy.ini,203
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,AutoInst.exe,100184
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,data1.cab,6511327
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,data1.hdr,48424
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,data2.cab,512
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,Detail.txt,137
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,EngLangID.txt,14
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,InstCtrl.txt,863
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,InstOpt.txt,128
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,ISSetup.dll,810328
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,layout.bin,1538
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,MOD01D00QQ0061002V.enc,3712
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,Prepackage.xml,1462
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,setup.exe,1204056
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,setup.ini,2922
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,setup.inx,285346
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,setup.isn,41179
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,setup.iss,892
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,setup.log,189
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,setupctrl.txt,321
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,Silent_Install.bat,12
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,Silent_Install_CD.bat,34
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,Silent_Uninstall.bat,31
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,Silent_Uninstall_CD.bat,53
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,Success.tag,108
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B,uninstall.iss,672
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\FAQ,8168C_manual_install.txt,957
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\FAQ,Change_installer_language.txt,72
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\FAQ,Driver_failed_to_load_code_10.txt,453
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\FAQ,Driver_Installer_Rollback.txt,880
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\FAQ,INF_default_option_changed.txt,260
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\FAQ,Realtek_Windows_Vista_Driver_Adv_Properties.htm,20848
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\FAQ,Use_installer_to_auto_remove_driver.txt,107
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\FAQ,WAIK_Ver_RTM_with_new_driver.txt,330
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\FAQ,WOL_AND_Shutdown_Link_Speed_OPTION.txt,708
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\ICON,remove.ico,34145
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\QUICK_INSTALL_GUIDE,Inst01.jpg,78989
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\QUICK_INSTALL_GUIDE,Inst02.jpg,41444
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\QUICK_INSTALL_GUIDE,Inst03.jpg,39753
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\QUICK_INSTALL_GUIDE,Install.htm,163
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Arabic,AdvProperties.html,20250
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Arabic,bottom.html,992
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Arabic,contactInfo.html,4318
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Arabic,format.css,153
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Arabic,index.html,1100
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Arabic,left.html,1115
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Arabic,setup.html,3276
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Arabic,title.txt,71
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Arabic,top.html,942
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Arabic,troubleshooting.html,1950
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Arabic,welcome.html,2704
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Arabic\images,logo.gif,2883
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\English,AdvProperties.html,94452
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\English,bottom.html,970
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\English,contactInfo.html,19476
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\English,format.css,179
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\English,index.html,1112
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\English,left.html,1062
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\English,setup.html,8839
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\English,top.html,4547
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\English,troubleshooting.html,10636
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\English,welcome.html,3852
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\English\images,logo.gif,2883
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\French,AdvProperties.html,17200
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\French,bottom.html,1030
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\French,contactInfo.html,4162
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\French,format.css,179
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\French,index.html,1138
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\French,left.html,1099
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\French,setup.html,2597
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\French,title.txt,78
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\French,top.html,899
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\French,troubleshooting.html,2706
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\French,welcome.html,4818
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\French\images,logo.gif,2883
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\German,AdvProperties.html,14543
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\German,bottom.html,1006
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\German,contactInfo.html,4120
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\German,format.css,153
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\German,index.html,1114
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\German,left.html,1064
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\German,setup.html,2558
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\German,title.txt,62
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\German,top.html,883
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\German,troubleshooting.html,2332
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\German,welcome.html,4260
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\German\images,logo.gif,2883
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hebrew,AdvProperties.html,15422
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hebrew,bottom.html,998
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hebrew,contactInfo.html,4208
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hebrew,format.css,153
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hebrew,index.html,1106
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hebrew,left.html,1113
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hebrew,setup.html,2685
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hebrew,title.txt,82
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hebrew,top.html,916
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hebrew,troubleshooting.html,1662
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hebrew,welcome.html,2293
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hebrew\images,logo.gif,2883
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hungarian,AdvProperties.html,21691
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hungarian,bottom.html,1086
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hungarian,contactInfo.html,4222
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hungarian,format.css,153
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hungarian,index.html,1194
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hungarian,left.html,1103
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hungarian,setup.html,3537
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hungarian,title.txt,76
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hungarian,top.html,914
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hungarian,troubleshooting.html,3376
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hungarian,welcome.html,8652
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Hungarian\images,logo.gif,2883
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Italian,AdvProperties.html,14508
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Italian,bottom.html,1002
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Italian,contactInfo.html,4118
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Italian,format.css,153
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Italian,index.html,1110
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Italian,left.html,1066
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Italian,setup.html,2398
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Italian,title.txt,90
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Italian,top.html,911
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Italian,troubleshooting.html,2278
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Italian,welcome.html,4204
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Italian\images,logo.gif,2883
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Japanese,AdvProperties.html,16962
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Japanese,bottom.html,954
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Japanese,contactInfo.html,3922
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Japanese,format.css,179
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Japanese,index.html,1062
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Japanese,left.html,1072
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Japanese,setup.html,2801
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Japanese,title.txt,78
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Japanese,top.html,906
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Japanese,troubleshooting.html,1402
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Japanese,welcome.html,2219
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Japanese\images,logo.gif,2883
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Korean,AdvProperties.html,13502
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Korean,bottom.html,950
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Korean,contactInfo.html,4026
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Korean,format.css,179
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Korean,index.html,1058
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Korean,left.html,1036
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Korean,setup.html,2420
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Korean,title.txt,67
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Korean,top.html,887
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Korean,troubleshooting.html,1408
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Korean,welcome.html,2051
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Korean\images,logo.gif,2883
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Portuguese,AdvProperties.html,18326
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Portuguese,bottom.html,1002
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Portuguese,contactInfo.html,4288
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Portuguese,format.css,153
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Portuguese,index.html,1110
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Portuguese,left.html,1111
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Portuguese,setup.html,2564
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Portuguese,title.txt,70
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Portuguese,top.html,897
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Portuguese,troubleshooting.html,2576
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Portuguese,welcome.html,4590
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Portuguese\images,logo.gif,2883
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Simplified_Chinese,AdvProperties.html,37079
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Simplified_Chinese,bottom.html,970
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Simplified_Chinese,contactInfo.html,2442
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Simplified_Chinese,format.css,179
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Simplified_Chinese,index.html,1078
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Simplified_Chinese,left.html,1039
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Simplified_Chinese,setup.html,2443
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Simplified_Chinese,title.txt,49
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Simplified_Chinese,top.html,1066
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Simplified_Chinese,troubleshooting.html,857
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Simplified_Chinese,welcome.html,2081
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Simplified_Chinese\images,logo.gif,2883
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Spanish,AdvProperties.html,15911
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Spanish,bottom.html,996
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Spanish,contactInfo.html,4196
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Spanish,format.css,179
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Spanish,index.html,1104
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Spanish,left.html,1105
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Spanish,setup.html,2567
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Spanish,title.txt,78
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Spanish,top.html,905
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Spanish,troubleshooting.html,2414
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Spanish,welcome.html,4484
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Spanish\images,logo.gif,2883
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Traditional_Chinese,AdvProperties.html,37322
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Traditional_Chinese,bottom.html,970
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Traditional_Chinese,contactInfo.html,2480
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Traditional_Chinese,format.css,179
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Traditional_Chinese,index.html,1078
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Traditional_Chinese,left.html,1039
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Traditional_Chinese,setup.html,2422
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Traditional_Chinese,title.txt,49
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Traditional_Chinese,top.html,1005
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Traditional_Chinese,troubleshooting.html,867
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Traditional_Chinese,welcome.html,1986
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Traditional_Chinese\images,logo.gif,2883
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Turkish,AdvProperties.html,15882
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Turkish,bottom.html,988
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Turkish,contactInfo.html,4150
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Turkish,format.css,153
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Turkish,index.html,1096
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Turkish,left.html,1067
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Turkish,setup.html,2627
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Turkish,title.txt,63
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Turkish,top.html,892
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Turkish,troubleshooting.html,2332
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Turkish,welcome.html,2028
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Turkish\images,logo.gif,2883
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Ukrinian,AdvProperties.html,99338
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Ukrinian,bottom.html,998
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Ukrinian,contactInfo.html,19610
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Ukrinian,index.html,1120
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Ukrinian,left.html,1137
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Ukrinian,setup.html,10466
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Ukrinian,top.html,4535
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Ukrinian,troubleshooting.html,10528
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Ukrinian,welcome.html,2904
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\README\WIN8\Ukrinian\images,logo.gif,2883
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\TOOL,RTInstaller32.dat,215384
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\TOOL,RTInstaller64.dat,239960
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\UTILIZE_DUAL_MAC_GUIDE,As_Fast_File_Sync_For_NB_And_Desktop..htm,726
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\UTILIZE_DUAL_MAC_GUIDE,As_File_Sync_NB_Desktop_01.jpg,42066
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\UTILIZE_DUAL_MAC_GUIDE,As_File_Sync_NB_Desktop_02.jpg,44045
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\UTILIZE_DUAL_MAC_GUIDE,As_One_Teaming_NIC.htm,489
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\UTILIZE_DUAL_MAC_GUIDE,As_Virtual_Machine_Dedicate_Virtual_NIC.htm,584
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\UTILIZE_DUAL_MAC_GUIDE,Utilize_Dual_NIC_For_VM_Machine.jpg,40870
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\WIN10,For_WDS_Server_pls_use_WinPE_folder.txt,0
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\WIN10\32,rt640x86.cat,1009624
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\WIN10\32,rt640x86.inf,1946174
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\WIN10\32,rt640x86.sys,797696
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\WIN10\32,RtNicprop32.DLL,109056
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\WIN10\64,rt640x64.cat,1009646
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\WIN10\64,rt640x64.inf,1946182
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\WIN10\64,rt640x64.sys,954368
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\WIN10\64,RtNicprop64.DLL,122880
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\WIN10\WinPE\32,rt640x86.cat,282743
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\WIN10\WinPE\32,rt640x86.sys,797696
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\WIN10\WinPE\32,ws640x86.inf,179128
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\WIN10\WinPE\64,rt640x64.cat,282765
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\WIN10\WinPE\64,rt640x64.sys,954368
+/OEM\CaringCenter\DRV\Realtek LAN_M 8411B\WIN10\WinPE\64,ws640x64.inf,179136
+/OEM\factory,Factory.cmd,3000
+/OEM\factory,Factory.ini,35
+/OEM\factory,listvol.ini,18
+/OEM\factory,SetDevice2017-12-19.log,1589
+/OEM\factory,SetSuccess.id,0
+/OEM\factory,ShowFailMsg.vbs,145
+/OEM\factory,windelay.exe,40960
+/OEM\FIVT,AuditModeDatFiles.log,895
+/OEM\FIVT,CopyBOM.cmd,2461
+/OEM\FIVT,FIVT.ini,794
+/OEM\FIVT,FIVT_2017_12_19_19_05_57_150.log,15859
+/OEM\FIVT,FIVT_Matched.ini.7z,486
+/OEM\FIVT,Lang.XML,15446
+/OEM\FIVT,MOD01SETTC0060000U.enc,5452
+/OEM\FIVT,OS_Mapping_20131104.xls,46080
+/OEM\FIVT,PatchCDRemark.log,134
+/OEM\FIVT,Run.cmd,2165
+/OEM\FIVT,Screenshot.png,63286
+/OEM\FIVT,Success.tag,42296
+/OEM\FIVT,Version.txt,9
+/OEM\FIVT,vols.log,28
+/OEM\FIVT,_listUsingFixedDiskDriveLetters.vbs,802
+/OEM\FIVT\Tools\BTControl,DisableBT.cmd,880
+/OEM\FIVT\Tools\BTControl\x64,Run.cmd,150
+/OEM\FIVT\Tools\BTControl\x86,Run.cmd,150
+/OEM\FIVT\Tools\Checklogo8p1\X64,Readme.txt,1988
+/OEM\FIVT\Tools\Checklogo8p1\X64,Run.cmd,67
+/OEM\FIVT\Tools\Checklogo8p1\X64,vssver2.scc,203
+/OEM\FIVT\Tools\Checklogo8p1\X86,Readme.txt,1988
+/OEM\FIVT\Tools\Checklogo8p1\X86,Run.cmd,67
+/OEM\FIVT\Tools\Checklogo8p1\X86,vssver2.scc,203
+/OEM\FIVT\Tools\CheckSoftwareInstallation,ChkMobileOffice.cmd,1941
+/OEM\FIVT\Tools\CheckSoftwareInstallation,ChkNorton.cmd,1451
+/OEM\FIVT\Tools\CheckSoftwareInstallation,ChkOffice.cmd,3481
+/OEM\FIVT\Tools\CheckVGADriver,QueryVGADriverProvider.cmd,128
+/OEM\FIVT\Tools\CheckVGADriver,VGA_DriverProvider.txt,134
+/OEM\FIVT\Tools\CHID\X64,ComputerHardwareIDs.txt,2049
+/OEM\FIVT\Tools\CHID\X64,Run.cmd,68
+/OEM\FIVT\Tools\CHID\X86,Run.cmd,68
+/OEM\FIVT\Tools\EventViewerCheck,eventcrashcheck.cmd,45
+/OEM\FIVT\Tools\EventViewerCheck,EventViewerCheck.log,148
+/OEM\FIVT\Tools\EventViewerCheck,Pass.log,0
+/OEM\FIVT\Tools\FamilyWhiteList,FamilyWhiteList.txt,86
+/OEM\FIVT\Tools\ListUnknownDevice,ListUnknow.vbs,2847
+/OEM\FIVT\Tools\ListUnknownDevice,Run.cmd,60
+/OEM\FIVT\Tools\ListWmic,GetWmiInfo.cmd,556
+/OEM\FIVT\Tools\ListWmic,Win32_Classes.txt,259
+/OEM\FIVT\Tools\ListWmic,WmiInfo_WIN-7LO921A45GC_20171219_1906.html,191590
+/OEM\FIVT\Tools\OA3Check,slmgr.vbs,113632
+/OEM\FIVT\Tools\OneBIOSCheckTool,Run.cmd,37
+/OEM\FIVT\Tools\SLICCheck,CheckSpecificPlatform.vbs,1089
+/OEM\FIVT\Tools\SLICCheck,LocalDisk.txt,320
+/OEM\FIVT\Tools\SLICCheck,LocalDisk2.txt,106
+/OEM\FIVT\Tools\SLICCheck,OACHECK.cmd,7204
+/OEM\FIVT\Tools\SLICCheck,OACHECK.log,1184
+/OEM\GCM,ProgramManifest-NXVEVSP046750268067600.xml,566
+/OEM\GCM,ProgramManifest.xml,566
+/OEM\JumpStart,W10PR64.tag,0
+/OEM\Log,OA30.log,332
+/OEM\NAPP,CheckFreeSpaceTag.cmd,77
+/OEM\NAPP,CompactOff.tag,0
+/OEM\NAPP,FindValidDriveLetter.cmd,833
+/OEM\NAPP,GetCurrentEdition.txt,200
+/OEM\NAPP,GetDiskPartIndex.vbs,1114
+/OEM\NAPP,GoToNAPP.cmd,11396
+/OEM\NAPP,GoToNAPP.log,4130
+/OEM\NAPP,LPCD.dat,646
+/OEM\NAPP,MountPartition.exe,18784
+/OEM\NAPP,NAPP.dat,65
+/OEM\NAPP,NAPP.log,393343
+/OEM\NAPP,NAPP.tag,3
+/OEM\NAPP,NAPP1P_Finalize.cmd,9321
+/OEM\NAPP,NAPP2P_ApplyImageToOSdrive.cmd,452
+/OEM\NAPP,NAPP2P_DismApplyOSImage.log,34097
+/OEM\NAPP,NAPP2P_Finalize.cmd,1753
+/OEM\NAPP,NAPP2P_Finalize_Checkflow.cmd,2053
+/OEM\NAPP,NAPP2P_Finalize_GenerateRegionTag.cmd,3952
+/OEM\NAPP,NAPP2P_Finalize_ManufacturingMode.cmd,1511
+/OEM\NAPP,NAPP2P_Finalize_TPMNoAutoProvision.cmd,766
+/OEM\NAPP,NAPP2P_Initialize.cmd,688
+/OEM\NAPP,NAPP3PStateDetection.ps1,1160
+/OEM\NAPP,NAPP3P_Finalize.cmd,706
+/OEM\NAPP,NAPP3P_Initialize.cmd,415
+/OEM\NAPP,NAPP4P_Finalize.cmd,6963
+/OEM\NAPP,NAPP4P_Initialize.cmd,573
+/OEM\NAPP,NappFlag.xml,2012
+/OEM\NAPP,NAPP_SLP.tag,22
+/OEM\NAPP,RCD.dat,480
+/OEM\NAPP,SetBootFromNAPP.log,9993
+/OEM\NAPP,ShowErrMsg.vbs,112
+/OEM\NAPP,SystemCD.dat,1276
+/OEM\NAPP,UserAlaunch1st_Finalize.cmd,426
+/OEM\NAPP,UserAlaunch1st_Initialize.cmd,580
+/OEM\NAPP,UserAlaunch2nd_Finalize.cmd,760
+/OEM\NAPP,UserAlaunch2nd_Initialize.cmd,472
+/OEM\NAPP,vols.log,67
+/OEM\NAPP,_CheckingOSDriveFreeSpace.vbs,1617
+/OEM\NAPP,_listUsingDriveLetters.vbs,554
+/OEM\NAPP\OBRSetTool,CopyEFI_byOEM.cmd,214
+/OEM\NAPP\OBRSetTool,Lang.XML,19734
+/OEM\NAPP\OBRSetTool,modifybcdtoPBR.cmd,1684
+/OEM\NAPP\OBRSetTool,modifybcdtoWinRE.cmd,1817
+/OEM\NAPP\OBRSetTool,OBRSetTool_amd64.exe,406832
+/OEM\NAPP\OBRSetTool,OBRSetTool_x86.exe,270640
+/OEM\NAPP\OBRSetTool\Log,modifybcdLog.log,3300
+/OEM\NAPP\OBRSetTool\Log,OBRSetTool.log,1433
+/OEM\Preload,ACER.tag,58
+/OEM\Preload,Autorun.ini,25322
+/OEM\Preload,en-us_Injected.tag,449
+/OEM\Preload,NIS_Installed.tag,166
+/OEM\Preload,Powercfg_AfterDisable.txt,60088
+/OEM\Preload,Powercfg_AfterRestore.txt,60088
+/OEM\Preload,Powercfg_BeforeDisable.txt,60088
+/OEM\Preload,Powercfg_BeforeRestore.txt,60088
+/OEM\Preload,PowerManagementSetting.tag,32
+/OEM\Preload,QuickAccessWithEPM.tag,82
+/OEM\Preload,Stay_en-us_LP.tag,449
+/OEM\Preload,Win32Office2016_Installed.tag,15
+/OEM\Preload\APP\AOMConsole,Install Acer Office Manager Console.lnk,1202
+/OEM\Preload\APP\AOMConsole,Install_NBDT_NoAPPCD.cmd,1264
+/OEM\Preload\APP\AOMConsole,Interop.Shell32.dll,49152
+/OEM\Preload\APP\AOMConsole,MOD01APP3C0060000H.enc,3864
+/OEM\Preload\APP\AOMConsole,RemoveAutorun.exe,229376
+/OEM\Preload\APP\AOMConsole,Setup.exe,389424
+/OEM\Preload\APP\AOMConsole,Setup.exe.config,3717
+/OEM\Preload\APP\AOMConsole\Source,httpd-2.2.25-win32-x86-openssl-0.9.8y.msi,6438912
+/OEM\Preload\APP\AOMConsole\Source,Installer.exe,362800
+/OEM\Preload\APP\AOMConsole\Source,Office Manager Console_x64.msi,20987904
+/OEM\Preload\APP\AOMConsole\Source,Office Manager Console_x86.msi,20918272
+/OEM\Preload\APP\AOMConsole\Source,python-3.4.3.msi,24846336
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x64.appx_Windows10_PreinstallKit,0e3035e1140b45bd9ffcfc94b0b8f43d.appx,6074739
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x64.appx_Windows10_PreinstallKit,0e3035e1140b45bd9ffcfc94b0b8f43d_License1.xml,2730
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x64.appx_Windows10_PreinstallKit,AUMIDs.txt,99
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x64.appx_Windows10_PreinstallKit,Microsoft.NET.Native.Framework.1.3_1.3.24201.0_arm__8wekyb3d8bbwe.appx,2824781
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x64.appx_Windows10_PreinstallKit,Microsoft.NET.Native.Framework.1.3_1.3.24201.0_x64__8wekyb3d8bbwe.appx,3016483
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x64.appx_Windows10_PreinstallKit,Microsoft.NET.Native.Framework.1.3_1.3.24201.0_x86__8wekyb3d8bbwe.appx,2665923
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x64.appx_Windows10_PreinstallKit,Microsoft.NET.Native.Runtime.1.4_1.4.24201.0_arm__8wekyb3d8bbwe.appx,217286
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x64.appx_Windows10_PreinstallKit,Microsoft.NET.Native.Runtime.1.4_1.4.24201.0_x64__8wekyb3d8bbwe.appx,245832
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x64.appx_Windows10_PreinstallKit,Microsoft.NET.Native.Runtime.1.4_1.4.24201.0_x86__8wekyb3d8bbwe.appx,201180
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x64.appx_Windows10_PreinstallKit,Microsoft.VCLibs.140.00_14.0.24123.0_arm__8wekyb3d8bbwe.appx,678365
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x64.appx_Windows10_PreinstallKit,Microsoft.VCLibs.140.00_14.0.24123.0_x64__8wekyb3d8bbwe.appx,799173
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x64.appx_Windows10_PreinstallKit,Microsoft.VCLibs.140.00_14.0.24123.0_x86__8wekyb3d8bbwe.appx,607410
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x64.appx_Windows10_PreinstallKit,MPAP_0e3035e1140b45bd9ffcfc94b0b8f43d_001.provxml,1081
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x86.appx_Windows10_PreinstallKit,6c845966b30849fb84dd10a6a7ad4be2.appx,6018334
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x86.appx_Windows10_PreinstallKit,6c845966b30849fb84dd10a6a7ad4be2_License1.xml,2728
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x86.appx_Windows10_PreinstallKit,AUMIDs.txt,99
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x86.appx_Windows10_PreinstallKit,Microsoft.NET.Native.Framework.1.3_1.3.24201.0_arm__8wekyb3d8bbwe.appx,2824781
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x86.appx_Windows10_PreinstallKit,Microsoft.NET.Native.Framework.1.3_1.3.24201.0_x64__8wekyb3d8bbwe.appx,3016483
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x86.appx_Windows10_PreinstallKit,Microsoft.NET.Native.Framework.1.3_1.3.24201.0_x86__8wekyb3d8bbwe.appx,2665923
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x86.appx_Windows10_PreinstallKit,Microsoft.NET.Native.Runtime.1.4_1.4.24201.0_arm__8wekyb3d8bbwe.appx,217286
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x86.appx_Windows10_PreinstallKit,Microsoft.NET.Native.Runtime.1.4_1.4.24201.0_x64__8wekyb3d8bbwe.appx,245832
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x86.appx_Windows10_PreinstallKit,Microsoft.NET.Native.Runtime.1.4_1.4.24201.0_x86__8wekyb3d8bbwe.appx,201180
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x86.appx_Windows10_PreinstallKit,Microsoft.VCLibs.140.00_14.0.24123.0_arm__8wekyb3d8bbwe.appx,678365
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x86.appx_Windows10_PreinstallKit,Microsoft.VCLibs.140.00_14.0.24123.0_x64__8wekyb3d8bbwe.appx,799173
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x86.appx_Windows10_PreinstallKit,Microsoft.VCLibs.140.00_14.0.24123.0_x86__8wekyb3d8bbwe.appx,607410
+/OEM\Preload\APP\AOMConsole\Source\CordovaApp.Windows10_2.0.3011.0_x86.appx_Windows10_PreinstallKit,MPAP_6c845966b30849fb84dd10a6a7ad4be2_001.provxml,1081
+/OEM\Preload\Autorun,AUTORUN.INF,85
+/OEM\Preload\Autorun,CheckFiles.exe,883232
+/OEM\Preload\Autorun\AutorunX,APP01S0065X75C02.enc,35052
+/OEM\Preload\Autorun\AutorunX,APP01S0065X75C02.xml,13143
+/OEM\Preload\Autorun\AutorunX,AutorunX.exe,992608
+/OEM\Preload\Autorun\AutorunX,enc_layout.xml,24410
+/OEM\Preload\Autorun\AutorunX,layout.xml,5824
+/OEM\Preload\Autorun\AutorunX,layout.xml.bak,5646
+/OEM\Preload\Autorun\AutorunX,layout_02.xml,6479
+/OEM\Preload\Autorun\AutorunX,layout_05.xml,5888
+/OEM\Preload\Autorun\AutorunX,layout_06.xml,5882
+/OEM\Preload\Autorun\AutorunX,layout_07.xml,6009
+/OEM\Preload\Autorun\AutorunX,layout_08.xml,6396
+/OEM\Preload\Autorun\AutorunX,layout_09.xml,5858
+/OEM\Preload\Autorun\AutorunX,layout_0a.xml,5922
+/OEM\Preload\Autorun\AutorunX,layout_0b.xml,5906
+/OEM\Preload\Autorun\AutorunX,layout_0c.xml,5922
+/OEM\Preload\Autorun\AutorunX,layout_0e.xml,5909
+/OEM\Preload\Autorun\AutorunX,layout_10.xml,5944
+/OEM\Preload\Autorun\AutorunX,layout_11.xml,6091
+/OEM\Preload\Autorun\AutorunX,layout_12.xml,5969
+/OEM\Preload\Autorun\AutorunX,layout_13.xml,5913
+/OEM\Preload\Autorun\AutorunX,layout_14.xml,5897
+/OEM\Preload\Autorun\AutorunX,layout_15.xml,5948
+/OEM\Preload\Autorun\AutorunX,layout_16.xml,5945
+/OEM\Preload\Autorun\AutorunX,layout_18.xml,5960
+/OEM\Preload\Autorun\AutorunX,layout_19.xml,6392
+/OEM\Preload\Autorun\AutorunX,layout_1a.xml,5914
+/OEM\Preload\Autorun\AutorunX,layout_1b.xml,5913
+/OEM\Preload\Autorun\AutorunX,layout_1d.xml,5895
+/OEM\Preload\Autorun\AutorunX,layout_1f.xml,5938
+/OEM\Preload\Autorun\AutorunX,layout_24.xml,5961
+/OEM\Preload\Autorun\AutorunX,layout_25.xml,5862
+/OEM\Preload\Autorun\AutorunX,layout_26.xml,5969
+/OEM\Preload\Autorun\AutorunX,layout_27.xml,5935
+/OEM\Preload\Autorun\AutorunX,layout_SC.xml,5843
+/OEM\Preload\Autorun\AutorunX,layout_TC.xml,5826
+/OEM\Preload\Autorun\AutorunX\HowToUse,Howtouse.html,4098
+/OEM\Preload\Autorun\AutorunX\HowToUse\Contents,contents.html,636
+/OEM\Preload\Autorun\AutorunX\HowToUse\Contents,Howtouse-old.html,436
+/OEM\Preload\Autorun\AutorunX\HowToUse\Contents,left-00.htm,273
+/OEM\Preload\Autorun\AutorunX\HowToUse\Contents,menu-contents.html,3125
+/OEM\Preload\Autorun\AutorunX\HowToUse\Contents,right-contents.html,37392
+/OEM\Preload\Autorun\AutorunX\HowToUse\Guide,guide.html,600
+/OEM\Preload\Autorun\AutorunX\HowToUse\Guide,Howtouse-old.html,433
+/OEM\Preload\Autorun\AutorunX\HowToUse\Guide,left-guide.html,273
+/OEM\Preload\Autorun\AutorunX\HowToUse\Guide,menu-guide.html,2816
+/OEM\Preload\Autorun\AutorunX\HowToUse\Guide,right-guide.html,15237
+/OEM\Preload\Autorun\AutorunX\HowToUse\Home,bd-main.html,590
+/OEM\Preload\Autorun\AutorunX\HowToUse\Home,left-00.htm,276
+/OEM\Preload\Autorun\AutorunX\HowToUse\Home,menu.html,3396
+/OEM\Preload\Autorun\AutorunX\HowToUse\Home,right-main.htm,1429
+/OEM\Preload\Autorun\AutorunX\HowToUse\Home,top.html,1683
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,bg.jpg,3154
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,Contents_H.png,682
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,Contents_N.png,632
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,dot-gray.gif,35
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,function_01.gif,262
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,FUNCTION_02.GIF,277
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,FUNCTION_03.GIF,262
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,FUNCTION_04.GIF,262
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,icon_contents01.jpg,7633
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,icon_contents02.jpg,7008
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,icon_contents03.jpg,7868
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,ICON_DETECT01.JPG,7670
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,ICON_DETECT02.JPG,7087
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,ICON_DETECT03.JPG,7975
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,icon_guide01.jpg,7536
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,icon_guide02.jpg,6897
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,icon_guide03.jpg,7815
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,icon_install01.jpg,7340
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,icon_install02.jpg,6769
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,icon_install03.jpg,7706
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,index_bg.jpg,85435
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,Install.png,4187
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,left-bk.gif,54
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,mane-image.jpg,22467
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,Manuals_H.png,682
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,Manuals_N.png,632
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,menu-bk-00.gif,816
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,menu-bk-01.gif,1006
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,menu-bk-02.gif,480
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,menu-white.gif,49
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,menu_arrow_dn.gif,61
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,menu_arrow_sm.gif,62
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,OpenIcon.png,4608
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,orange-light.gif,43
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,orange-light2.gif,35
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,sub-dot-gray.gif,43
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,table-1.jpg,5886
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,Table-1B.jpg,3918
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,table-2.jpg,2789
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,Thumbs.db,110080
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,top-bk0.gif,1931
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,top-name.gif,5937
+/OEM\Preload\Autorun\AutorunX\HowToUse\Images,transparent.gif,43
+/OEM\Preload\Autorun\AutorunX\HowToUse\_notes,dwSiteColumnsMe.xml,729
+/OEM\Preload\Autorun\DRV\Intel Wireless LAN_M Intel WiFi 2x2 AC+ BT4.0 INT7265 NGFF,MOD01D00OM0061001Y.enc,3896
+/OEM\Preload\Autorun\DRV\Realtek LAN_M 8411B,MOD01D00QQ0061002V.enc,3712
+/OEM\Preload\Autorun\GUI,UM_v1.W10.NB.2017.04.07.tag,53
+/OEM\Preload\Autorun\GUI\Acer User's Manual\00,Acer Regulatory Information and Safety Guide.pdf,1059922
+/OEM\Preload\Autorun\GUI\Acer User's Manual\00,CreateShortcut_WithArgument.cmd,4180
+/OEM\Preload\Autorun\GUI\Acer User's Manual\00,CreateShortcut_WithArgument.vbs,12974
+/OEM\Preload\Autorun\GUI\Acer User's Manual\00,LPCD_UMLang.ini,648
+/OEM\Preload\Autorun\GUI\Acer User's Manual\00,OnePager.exe,218528
+/OEM\Preload\Autorun\GUI\Acer User's Manual\00,UM.ico,145296
+/OEM\Preload\Autorun\GUI\Acer User's Manual\00,User_Manual.pdf,482358
+/OEM\Preload\Autorun\GUI\Acer User's Manual\AR,Acer Regulatory Information and Safety Guide.pdf,1130466
+/OEM\Preload\Autorun\GUI\Acer User's Manual\AR,MOD01GUD4BAR60000J.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\AR,User_Manual.pdf,553196
+/OEM\Preload\Autorun\GUI\Acer User's Manual\BG,Acer Regulatory Information and Safety Guide.pdf,1129092
+/OEM\Preload\Autorun\GUI\Acer User's Manual\BG,MOD01GUD4BBG60000K.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\BG,User_Manual.pdf,555854
+/OEM\Preload\Autorun\GUI\Acer User's Manual\CS,Acer Regulatory Information and Safety Guide.pdf,1073265
+/OEM\Preload\Autorun\GUI\Acer User's Manual\CS,MOD01GUD4BCS60000K.enc,3416
+/OEM\Preload\Autorun\GUI\Acer User's Manual\CS,User_Manual.pdf,535060
+/OEM\Preload\Autorun\GUI\Acer User's Manual\DA,Acer Regulatory Information and Safety Guide.pdf,1030728
+/OEM\Preload\Autorun\GUI\Acer User's Manual\DA,MOD01GUD4BDA60000L.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\DA,User_Manual.pdf,488587
+/OEM\Preload\Autorun\GUI\Acer User's Manual\DE,Acer Regulatory Information and Safety Guide.pdf,1037928
+/OEM\Preload\Autorun\GUI\Acer User's Manual\DE,MOD01GUD4BDE60000L.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\DE,User_Manual.pdf,491382
+/OEM\Preload\Autorun\GUI\Acer User's Manual\EL,Acer Regulatory Information and Safety Guide.pdf,1155143
+/OEM\Preload\Autorun\GUI\Acer User's Manual\EL,MOD01GUD4BEL60000L.enc,3416
+/OEM\Preload\Autorun\GUI\Acer User's Manual\EL,User_Manual.pdf,556409
+/OEM\Preload\Autorun\GUI\Acer User's Manual\EN,Acer Regulatory Information and Safety Guide.pdf,1059922
+/OEM\Preload\Autorun\GUI\Acer User's Manual\EN,MOD01GUD4BEN60000P.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\EN,User_Manual.pdf,482358
+/OEM\Preload\Autorun\GUI\Acer User's Manual\ES,Acer Regulatory Information and Safety Guide.pdf,1063994
+/OEM\Preload\Autorun\GUI\Acer User's Manual\ES,MOD01GUD4BES60000L.enc,3448
+/OEM\Preload\Autorun\GUI\Acer User's Manual\ES,User_Manual.pdf,487944
+/OEM\Preload\Autorun\GUI\Acer User's Manual\ET,Acer Regulatory Information and Safety Guide.pdf,1028199
+/OEM\Preload\Autorun\GUI\Acer User's Manual\ET,MOD01GUD4BET60000L.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\ET,User_Manual.pdf,484958
+/OEM\Preload\Autorun\GUI\Acer User's Manual\F1,Acer Regulatory Information and Safety Guide.pdf,1045519
+/OEM\Preload\Autorun\GUI\Acer User's Manual\F1,MOD01GUD4BF160000L.enc,3436
+/OEM\Preload\Autorun\GUI\Acer User's Manual\F1,User_Manual.pdf,489823
+/OEM\Preload\Autorun\GUI\Acer User's Manual\FI,Acer Regulatory Information and Safety Guide.pdf,1026587
+/OEM\Preload\Autorun\GUI\Acer User's Manual\FI,MOD01GUD4BFI60000L.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\FI,User_Manual.pdf,484226
+/OEM\Preload\Autorun\GUI\Acer User's Manual\FR,Acer Regulatory Information and Safety Guide.pdf,1036635
+/OEM\Preload\Autorun\GUI\Acer User's Manual\FR,MOD01GUD4BFR60000L.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\FR,User_Manual.pdf,489519
+/OEM\Preload\Autorun\GUI\Acer User's Manual\HE,Acer Regulatory Information and Safety Guide.pdf,1059922
+/OEM\Preload\Autorun\GUI\Acer User's Manual\HE,MOD01GUD4BHE60000K.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\HE,User_Manual.pdf,542225
+/OEM\Preload\Autorun\GUI\Acer User's Manual\HR,Acer Regulatory Information and Safety Guide.pdf,1063439
+/OEM\Preload\Autorun\GUI\Acer User's Manual\HR,MOD01GUD4BHR60000L.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\HR,User_Manual.pdf,525026
+/OEM\Preload\Autorun\GUI\Acer User's Manual\HU,Acer Regulatory Information and Safety Guide.pdf,1065924
+/OEM\Preload\Autorun\GUI\Acer User's Manual\HU,MOD01GUD4BHU60000L.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\HU,User_Manual.pdf,529831
+/OEM\Preload\Autorun\GUI\Acer User's Manual\ID,Acer Regulatory Information and Safety Guide.pdf,1028960
+/OEM\Preload\Autorun\GUI\Acer User's Manual\ID,MOD01GUD4BID60000J.enc,3436
+/OEM\Preload\Autorun\GUI\Acer User's Manual\ID,User_Manual.pdf,484410
+/OEM\Preload\Autorun\GUI\Acer User's Manual\IT,Acer Regulatory Information and Safety Guide.pdf,1033991
+/OEM\Preload\Autorun\GUI\Acer User's Manual\IT,MOD01GUD4BIT60000L.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\IT,User_Manual.pdf,486813
+/OEM\Preload\Autorun\GUI\Acer User's Manual\JA,Acer Regulatory Information and Safety Guide.pdf,1079527
+/OEM\Preload\Autorun\GUI\Acer User's Manual\JA,MOD01GUD4BJA60000O.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\JA,User_Manual.pdf,695638
+/OEM\Preload\Autorun\GUI\Acer User's Manual\KO,Acer Regulatory Information and Safety Guide.pdf,1101201
+/OEM\Preload\Autorun\GUI\Acer User's Manual\KO,MOD01GUD4BKO60000L.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\KO,User_Manual.pdf,535471
+/OEM\Preload\Autorun\GUI\Acer User's Manual\LT,Acer Regulatory Information and Safety Guide.pdf,1072800
+/OEM\Preload\Autorun\GUI\Acer User's Manual\LT,MOD01GUD4BLT60000L.enc,3436
+/OEM\Preload\Autorun\GUI\Acer User's Manual\LT,User_Manual.pdf,533456
+/OEM\Preload\Autorun\GUI\Acer User's Manual\LV,Acer Regulatory Information and Safety Guide.pdf,1083059
+/OEM\Preload\Autorun\GUI\Acer User's Manual\LV,MOD01GUD4BLV60000L.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\LV,User_Manual.pdf,535416
+/OEM\Preload\Autorun\GUI\Acer User's Manual\NL,Acer Regulatory Information and Safety Guide.pdf,1030988
+/OEM\Preload\Autorun\GUI\Acer User's Manual\NL,MOD01GUD4BNL60000L.enc,3416
+/OEM\Preload\Autorun\GUI\Acer User's Manual\NL,User_Manual.pdf,487419
+/OEM\Preload\Autorun\GUI\Acer User's Manual\NO,Acer Regulatory Information and Safety Guide.pdf,1028612
+/OEM\Preload\Autorun\GUI\Acer User's Manual\NO,MOD01GUD4BNO60000L.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\NO,User_Manual.pdf,487871
+/OEM\Preload\Autorun\GUI\Acer User's Manual\PL,Acer Regulatory Information and Safety Guide.pdf,1107865
+/OEM\Preload\Autorun\GUI\Acer User's Manual\PL,MOD01GUD4BPL60000L.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\PL,User_Manual.pdf,538352
+/OEM\Preload\Autorun\GUI\Acer User's Manual\PT,Acer Regulatory Information and Safety Guide.pdf,1053291
+/OEM\Preload\Autorun\GUI\Acer User's Manual\PT,MOD01GUD4BPT60000L.enc,3456
+/OEM\Preload\Autorun\GUI\Acer User's Manual\PT,User_Manual.pdf,488368
+/OEM\Preload\Autorun\GUI\Acer User's Manual\RO,Acer Regulatory Information and Safety Guide.pdf,1096679
+/OEM\Preload\Autorun\GUI\Acer User's Manual\RO,MOD01GUD4BRO60000L.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\RO,User_Manual.pdf,531955
+/OEM\Preload\Autorun\GUI\Acer User's Manual\RU,Acer Regulatory Information and Safety Guide.pdf,1151257
+/OEM\Preload\Autorun\GUI\Acer User's Manual\RU,MOD01GUD4BRU60000L.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\RU,User_Manual.pdf,559202
+/OEM\Preload\Autorun\GUI\Acer User's Manual\S3,Acer Regulatory Information and Safety Guide.pdf,1035320
+/OEM\Preload\Autorun\GUI\Acer User's Manual\S3,MOD01GUD4BS360000L.enc,3448
+/OEM\Preload\Autorun\GUI\Acer User's Manual\S3,User_Manual.pdf,488057
+/OEM\Preload\Autorun\GUI\Acer User's Manual\SC,Acer Regulatory Information and Safety Guide.pdf,1172302
+/OEM\Preload\Autorun\GUI\Acer User's Manual\SC,MOD01GUD4BSC60000K.enc,3456
+/OEM\Preload\Autorun\GUI\Acer User's Manual\SC,User_Manual.pdf,546656
+/OEM\Preload\Autorun\GUI\Acer User's Manual\SK,Acer Regulatory Information and Safety Guide.pdf,1086424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\SK,MOD01GUD4BSK60000K.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\SK,User_Manual.pdf,531018
+/OEM\Preload\Autorun\GUI\Acer User's Manual\SL,Acer Regulatory Information and Safety Guide.pdf,1076353
+/OEM\Preload\Autorun\GUI\Acer User's Manual\SL,MOD01GUD4BSL60000K.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\SL,User_Manual.pdf,524234
+/OEM\Preload\Autorun\GUI\Acer User's Manual\ST,Acer Regulatory Information and Safety Guide.pdf,1059922
+/OEM\Preload\Autorun\GUI\Acer User's Manual\ST,MOD01GUD4BST60000J.enc,3436
+/OEM\Preload\Autorun\GUI\Acer User's Manual\ST,User_Manual.pdf,525988
+/OEM\Preload\Autorun\GUI\Acer User's Manual\SV,Acer Regulatory Information and Safety Guide.pdf,1044746
+/OEM\Preload\Autorun\GUI\Acer User's Manual\SV,MOD01GUD4BSV60000K.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\SV,User_Manual.pdf,486665
+/OEM\Preload\Autorun\GUI\Acer User's Manual\TC,Acer Regulatory Information and Safety Guide.pdf,1307302
+/OEM\Preload\Autorun\GUI\Acer User's Manual\TC,MOD01GUD4BTC60000K.enc,3456
+/OEM\Preload\Autorun\GUI\Acer User's Manual\TC,User_Manual.pdf,566220
+/OEM\Preload\Autorun\GUI\Acer User's Manual\TH,Acer Regulatory Information and Safety Guide.pdf,1068922
+/OEM\Preload\Autorun\GUI\Acer User's Manual\TH,MOD01GUD4BTH60000L.enc,3416
+/OEM\Preload\Autorun\GUI\Acer User's Manual\TH,User_Manual.pdf,515956
+/OEM\Preload\Autorun\GUI\Acer User's Manual\TR,Acer Regulatory Information and Safety Guide.pdf,1127772
+/OEM\Preload\Autorun\GUI\Acer User's Manual\TR,MOD01GUD4BTR60000K.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\TR,User_Manual.pdf,567027
+/OEM\Preload\Autorun\GUI\Acer User's Manual\UK,Acer Regulatory Information and Safety Guide.pdf,1153910
+/OEM\Preload\Autorun\GUI\Acer User's Manual\UK,MOD01GUD4BUK60000K.enc,3424
+/OEM\Preload\Autorun\GUI\Acer User's Manual\UK,User_Manual.pdf,559738
+/OEM\Preload\Autorun\GUI\Acer User's Manual\XC,Acer Regulatory Information and Safety Guide.pdf,1051473
+/OEM\Preload\Autorun\GUI\Acer User's Manual\XC,MOD01GUD4BXC60000M.enc,3456
+/OEM\Preload\Autorun\GUI\Acer User's Manual\XC,User_Manual.pdf,489143
+/OEM\Preload\Command,APBundlePolicy.xml,50343
+/OEM\Preload\Command,POP01S0065X75C02.ini,11274
+/OEM\Preload\Command\AlaunchX,ALaunchX.exe,2038064
+/OEM\Preload\Command\AlaunchX,ALaunchX.tag,24
+/OEM\Preload\Command\AlaunchX,AppInRun.exe,305504
+/OEM\Preload\Command\AlaunchX,AuditAlaunchX.ini,1908
+/OEM\Preload\Command\AlaunchX,BeforeOOBE.ini,620
+/OEM\Preload\Command\AlaunchX,BeforeOOBE_BeforePatchRemove.ini,553
+/OEM\Preload\Command\AlaunchX,D2D.tag,0
+/OEM\Preload\Command\AlaunchX,DesktopCover_delete.bat,1657
+/OEM\Preload\Command\AlaunchX,DisableS3.exe,8192
+/OEM\Preload\Command\AlaunchX,DisableS3.txt,520
+/OEM\Preload\Command\AlaunchX,DocLangMapping.ini,721
+/OEM\Preload\Command\AlaunchX,DriverShortcutFilterList.ini,70
+/OEM\Preload\Command\AlaunchX,Firstboot.ini,1502
+/OEM\Preload\Command\AlaunchX,Firstboot_BeforePatchRemove.ini,1364
+/OEM\Preload\Command\AlaunchX,HWID.ini,4122
+/OEM\Preload\Command\AlaunchX,HWID_History.ini,172404
+/OEM\Preload\Command\AlaunchX,Lang.xml,16394
+/OEM\Preload\Command\AlaunchX,LaunchALaunchX.exe,341344
+/OEM\Preload\Command\AlaunchX,LockKeyboardMouse.exe,249184
+/OEM\Preload\Command\AlaunchX,LogBeforeOOBE.csv,1793
+/OEM\Preload\Command\AlaunchX,LogFirstBoot.csv,4920
+/OEM\Preload\Command\AlaunchX,LogUserAlaunchX.csv,37225
+/OEM\Preload\Command\AlaunchX,LPCD_PostOOBE.ini,46
+/OEM\Preload\Command\AlaunchX,MOD01S00A200ZZ0007.enc,4312
+/OEM\Preload\Command\AlaunchX,MOD01SET010060000J.enc,3840
+/OEM\Preload\Command\AlaunchX,NAPP.ini,30
+/OEM\Preload\Command\AlaunchX,OfflineModuleList.xml,1579
+/OEM\Preload\Command\AlaunchX,PreInstallFromLPCD.ini,203
+/OEM\Preload\Command\AlaunchX,PrepareAlaunchX.cmd,1616
+/OEM\Preload\Command\AlaunchX,SCD_WinPE_TMP.ini,2967
+/OEM\Preload\Command\AlaunchX,SCD_WinPE_TMP_BeforePatchRemove.ini,2055
+/OEM\Preload\Command\AlaunchX,SendDesktop.scf,101
+/OEM\Preload\Command\AlaunchX,Set2.cmd,140
+/OEM\Preload\Command\AlaunchX,SetP2Active.txt,37
+/OEM\Preload\Command\AlaunchX,Settings.ini,1007
+/OEM\Preload\Command\AlaunchX,UserAlaunchX.ini,10629
+/OEM\Preload\Command\AlaunchX,UserAlaunchX_BeforePatchRemove.ini,9805
+/OEM\Preload\Command\AlaunchX,UserAlaunchX_PhaseII.ini,49
+/OEM\Preload\Command\AlaunchX,WOSList.xml,36669
+/OEM\Preload\Command\AlaunchX\BackupLinks,desktop.ini,174
+/OEM\Preload\Command\AlaunchX\Resource\acer,InstallationIcon.png,8886
+/OEM\Preload\Command\AlaunchX\Resource\acer,Main.png,14488
+/OEM\Preload\Command\AlaunchX\Resource\acer,Thumbs.db,5632
+/OEM\Preload\Command\AlaunchX\Resource\acer\Backgrounds,BACKGROUND1024x600.jpg,217642
+/OEM\Preload\Command\AlaunchX\Resource\acer\Backgrounds,BACKGROUND1280x1024.jpg,237558
+/OEM\Preload\Command\AlaunchX\Resource\acer\Backgrounds,BACKGROUND1280x720.jpg,233470
+/OEM\Preload\Command\AlaunchX\Resource\acer\Backgrounds,BACKGROUND1280x768.jpg,239721
+/OEM\Preload\Command\AlaunchX\Resource\acer\Backgrounds,BACKGROUND1280x960.jpg,235218
+/OEM\Preload\Command\AlaunchX\Resource\acer\Backgrounds,BACKGROUND1360x768.jpg,232143
+/OEM\Preload\Command\AlaunchX\Resource\acer\Backgrounds,BACKGROUND1366x768.jpg,224353
+/OEM\Preload\Command\AlaunchX\Resource\acer\Backgrounds,BACKGROUND1440x900.jpg,245616
+/OEM\Preload\Command\AlaunchX\Resource\acer\Backgrounds,BACKGROUND1600x900.jpg,249684
+/OEM\Preload\Command\AlaunchX\Resource\acer\Backgrounds,BACKGROUND1680x945.jpg,246382
+/OEM\Preload\Command\AlaunchX\Resource\acer\Backgrounds,BACKGROUND1920x1080.jpg,245719
+/OEM\Preload\Command\AlaunchX\Resource\acer\Backgrounds,BACKGROUND1920x1200.jpg,247043
+/OEM\Preload\Command\AlaunchX\Resource\acer\Backgrounds,BACKGROUND800x600.jpg,232664
+/OEM\Preload\Command\AlaunchX\Resource\acer\Backgrounds,BACKGROUNDDEFAULT.jpg,232664
+/OEM\Preload\Command\AlaunchX\Resource\acer\Backgrounds,Thumbs.db,40448
+/OEM\Preload\Command\AlaunchX\Resource\eMachines,InstallationIcon.png,8886
+/OEM\Preload\Command\AlaunchX\Resource\eMachines,Main.png,5025
+/OEM\Preload\Command\AlaunchX\Resource\eMachines,Thumbs.db,6144
+/OEM\Preload\Command\AlaunchX\Resource\eMachines\Backgrounds,BACKGROUND1024X600.jpg,171356
+/OEM\Preload\Command\AlaunchX\Resource\eMachines\Backgrounds,Background1024x768.jpg,98414
+/OEM\Preload\Command\AlaunchX\Resource\eMachines\Backgrounds,Background1280x1024.jpg,141417
+/OEM\Preload\Command\AlaunchX\Resource\eMachines\Backgrounds,BACKGROUND1280X720.jpg,233573
+/OEM\Preload\Command\AlaunchX\Resource\eMachines\Backgrounds,Background1360x768.jpg,96121
+/OEM\Preload\Command\AlaunchX\Resource\eMachines\Backgrounds,Background1600x1200.jpg,156318
+/OEM\Preload\Command\AlaunchX\Resource\eMachines\Backgrounds,Background1920x1200.jpg,172575
+/OEM\Preload\Command\AlaunchX\Resource\eMachines\Backgrounds,Background800x600.jpg,73156
+/OEM\Preload\Command\AlaunchX\Resource\eMachines\Backgrounds,BackgroundDefault.jpg,172277
+/OEM\Preload\Command\AlaunchX\Resource\eMachines\Backgrounds,Thumbs.db,17408
+/OEM\Preload\Command\AlaunchX\Resource\Founder,InstallationIcon.png,8886
+/OEM\Preload\Command\AlaunchX\Resource\Founder,Main.png,5030
+/OEM\Preload\Command\AlaunchX\Resource\Founder,Thumbs.db,5632
+/OEM\Preload\Command\AlaunchX\Resource\Founder\Backgrounds,Background1280x1024.jpg,160320
+/OEM\Preload\Command\AlaunchX\Resource\Founder\Backgrounds,BackgroundDefault.jpg,237435
+/OEM\Preload\Command\AlaunchX\Resource\Founder\Backgrounds,Thumbs.db,7680
+/OEM\Preload\Command\AlaunchX\Resource\Gateway,InstallationIcon.png,8886
+/OEM\Preload\Command\AlaunchX\Resource\Gateway,Main.png,5049
+/OEM\Preload\Command\AlaunchX\Resource\Gateway,Thumbs.db,6144
+/OEM\Preload\Command\AlaunchX\Resource\Gateway\Backgrounds,background1024x600.jpg,227315
+/OEM\Preload\Command\AlaunchX\Resource\Gateway\Backgrounds,Background1024x768.jpg,134636
+/OEM\Preload\Command\AlaunchX\Resource\Gateway\Backgrounds,Background1280x1024.jpg,232269
+/OEM\Preload\Command\AlaunchX\Resource\Gateway\Backgrounds,background1280x720.jpg,227698
+/OEM\Preload\Command\AlaunchX\Resource\Gateway\Backgrounds,Background1360x768.jpg,130212
+/OEM\Preload\Command\AlaunchX\Resource\Gateway\Backgrounds,Background1600x1200.jpg,170525
+/OEM\Preload\Command\AlaunchX\Resource\Gateway\Backgrounds,Background1920x1200.jpg,189541
+/OEM\Preload\Command\AlaunchX\Resource\Gateway\Backgrounds,Background800x600.jpg,93380
+/OEM\Preload\Command\AlaunchX\Resource\Gateway\Backgrounds,BackgroundDefault.jpg,184901
+/OEM\Preload\Command\AlaunchX\Resource\Gateway\Backgrounds,Thumbs.db,28672
+/OEM\Preload\Command\AlaunchX\Resource\Packardbell,InstallationIcon.png,8886
+/OEM\Preload\Command\AlaunchX\Resource\Packardbell,Main.png,5018
+/OEM\Preload\Command\AlaunchX\Resource\Packardbell,Thumbs.db,5632
+/OEM\Preload\Command\AlaunchX\Resource\Packardbell\Backgrounds,Background1024x768.jpg,211458
+/OEM\Preload\Command\AlaunchX\Resource\Packardbell\Backgrounds,Background1280x1024.jpg,218577
+/OEM\Preload\Command\AlaunchX\Resource\Packardbell\Backgrounds,Background1360x768.jpg,198241
+/OEM\Preload\Command\AlaunchX\Resource\Packardbell\Backgrounds,Background1600x1200.jpg,223384
+/OEM\Preload\Command\AlaunchX\Resource\Packardbell\Backgrounds,Background1920x1200.jpg,190347
+/OEM\Preload\Command\AlaunchX\Resource\Packardbell\Backgrounds,Background800x600.jpg,134105
+/OEM\Preload\Command\AlaunchX\Resource\Packardbell\Backgrounds,BackgroundDefault.jpg,182395
+/OEM\Preload\Command\AlaunchX\Resource\Packardbell\Backgrounds,Thumbs.db,21504
+/OEM\Preload\Command\PAP,PAP010RQ65X70C61.ini,10715
+/OEM\Preload\Command\PAP,PAT01000600000AP.ini,409
+/OEM\Preload\Command\PAP,PAT01000610000TH.ini,985
+/OEM\Preload\Command\PAP,PAT01000610000VV.ini,364
+/OEM\Preload\Command\PAP,PXP00000ZC61U771.INI,711
+/OEM\Preload\CSUP,CSUP_RCD.txt,10
+/OEM\Preload\CSUP,CSUP_SCD.txt,10
+/OEM\Preload\DPOP\BRANDMETADATA,Install.cmd,3467
+/OEM\Preload\DPOP\BRANDMETADATA,MOD01SET5Y00ZZ000C.enc,4856
+/OEM\Preload\DPOP\CHECKIFDMIBRANDISMATCH,Check_DMI_eq_Metadata.cmd,616
+/OEM\Preload\DPOP\CHECKIFDMIBRANDISMATCH,MOD01SETAD00ZZ0006.enc,3520
+/OEM\Preload\DPOP\CHECKIFDMIBRANDISMATCH,_Check_DMI_eq_Metadata.vbs,2030
+/OEM\Preload\DPOP\CHECKIFDMIBRANDISMATCH,_Check_DMI_eq_Metadata_NoOption.vbs,1780
+/OEM\Preload\DPOP\COPYOFPOPFORGREATERTHANRV36,MakePOPCopy_GTRV36.vbs,1617
+/OEM\Preload\DPOP\COPYOFPOPFORGREATERTHANRV36,MakPoPCopy.CMD,830
+/OEM\Preload\DPOP\COPYOFPOPFORGREATERTHANRV36,MOD01OPK0900ZZ0007.enc,3360
+/OEM\Preload\DPOP\COPYOFPOPFORGREATERTHANRV36,MsgBox.vbs,32
+/OEM\Preload\DPOP\DISABLE_D_DRIVE,disable.cmd,532
+/OEM\Preload\DPOP\DISABLE_D_DRIVE,MOD01SETC800ZZ0003.enc,3224
+/OEM\Preload\DPOP\ENABLE_D_DRIVE,enable.cmd,1271
+/OEM\Preload\DPOP\ENABLE_D_DRIVE,MOD01SETC900ZZ0002.enc,3264
+/OEM\Preload\DPOP\ENABLE_D_DRIVE,_Enable_D_Drive.ps1,1270
+/OEM\Preload\DPOP\GCMREADINESS,BaseImageRegionsMapping.ini,101
+/OEM\Preload\DPOP\GCMREADINESS,Dism_GetIntl.log,439
+/OEM\Preload\DPOP\GCMREADINESS,GCMReadiness_Backup.reg,756
+/OEM\Preload\DPOP\GCMREADINESS,GCM_Setup.cmd,16098
+/OEM\Preload\DPOP\GCMREADINESS,IM_All_List_ExceptTouch.txt,481
+/OEM\Preload\DPOP\GCMREADINESS,IM_WhiteList.txt,441
+/OEM\Preload\DPOP\GCMREADINESS,LogPath,3
+/OEM\Preload\DPOP\GCMREADINESS,MOD01S001F0060000H.enc,7448
+/OEM\Preload\DPOP\GCMREADINESS,MRDRegionMapping.ini,181
+/OEM\Preload\DPOP\GCMREADINESS,MRDRegionMapping_New.ini,185
+/OEM\Preload\DPOP\GCMREADINESS,NGCM_Default.reg,544
+/OEM\Preload\DPOP\GCMREADINESS,NGCM_Default_Offline.reg,488
+/OEM\Preload\DPOP\GCMREADINESS,OLCompatibleMapping.ini,125
+/OEM\Preload\DPOP\GCMREADINESS,__CheckGCMRegionName.vbs,1045
+/OEM\Preload\DPOP\GCMREADINESS,__ReadGCMXmlToWriteReg.vbs,2560
+/OEM\Preload\DPOP\GCMREADINESS,__WriteGCMModel.vbs,1047
+/OEM\Preload\DPOP\OEMCustomize,Acer_Install.cmd,1344
+/OEM\Preload\DPOP\OEMCustomize,BeforeOOBE.cmd,1713
+/OEM\Preload\DPOP\OEMCustomize,FirstBoot.cmd,479
+/OEM\Preload\DPOP\OEMCustomize,Launch.reg,158
+/OEM\Preload\DPOP\OEMCustomize,LaunchFactory.reg,231
+/OEM\Preload\DPOP\OEMCustomize,UserAlaunch.cmd,968
+/OEM\Preload\DPOP\OEMCustomize\NoUse,ACERBLBOOT.INI,47
+/OEM\Preload\DPOP\OEMCustomize\NoUse,ACERCONFIG.CMD,1284
+/OEM\Preload\DPOP\OEMCustomize\NoUse,ActiveEnvVar.exe,57184
+/OEM\Preload\DPOP\OEMCustomize\NoUse,CheckFlow.cmd,1887
+/OEM\Preload\DPOP\OEMCustomize\NoUse,LaunchFactory_SWOD.reg,386
+/OEM\Preload\DPOP\OEMCustomize\NoUse,offline.reg,294
+/OEM\Preload\DPOP\OEMCustomize\NoUse,PhaseLog.cmd,222
+/OEM\Preload\DPOP\OEMCustomize\NoUse,SETAUTOFAILOVER.CMD,9215
+/OEM\Preload\DPOP\OEMCustomize\NoUse,SETAUTOFAILOVER_A.CMD,9081
+/OEM\Preload\DPOP\OEMCustomize\NoUse,SetP2Active.txt,37
+/OEM\Preload\DPOP\OEMCustomize\NoUse,SETRE1.INI,50
+/OEM\Preload\DPOP\OEMCustomize\NoUse,SETRE2.INI,56
+/OEM\Preload\DPOP\OEMCustomize\NoUse,_RemoveWP_from_OEMTheme.vbs,906
+/OEM\Preload\DPOP\OEMCustomize\NoUse,_waitProcess.vbs,1001
+/OEM\Preload\DPOP\OEMRESOURCE,MOD01SET7800600005.enc,3756
+/OEM\Preload\DPOP\OEMRESOURCE\Logo\Acer,OEM_OOBE.png,7634
+/OEM\Preload\DPOP\OEMRESOURCE\Logo\Acer,OEM_System.bmp,43256
+/OEM\Preload\DPOP\OEMRESOURCE\Logo\Acer,Thumbs.db,12800
+/OEM\Preload\DPOP\OEMRESOURCE\Logo\Founder,FOUNDER.jpg,15008
+/OEM\Preload\DPOP\OEMRESOURCE\Logo\Founder,LOGO.PNG,5361
+/OEM\Preload\DPOP\OEMRESOURCE\Logo\Founder,logo1.png,927
+/OEM\Preload\DPOP\OEMRESOURCE\Logo\Founder,OEM_OOBE.png,6441
+/OEM\Preload\DPOP\OEMRESOURCE\Logo\Founder,OEM_System.bmp,57656
+/OEM\Preload\DPOP\OEMRESOURCE\Logo\Founder,Thumbs.db,22528
+/OEM\Preload\DPOP\OEMRESOURCE\Logo\Founder,usertile.bmp,49206
+/OEM\Preload\DPOP\OEMRESOURCE\Logo\Gateway,OEM_OOBE.png,19347
+/OEM\Preload\DPOP\OEMRESOURCE\Logo\Gateway,OEM_System.bmp,43256
+/OEM\Preload\DPOP\OEMRESOURCE\Logo\Gateway,Thumbs.db,22528
+/OEM\Preload\DPOP\OEMRESOURCE\Logo\Packard,OEM_OOBE.png,8330
+/OEM\Preload\DPOP\OEMRESOURCE\Logo\Packard,OEM_System.bmp,43256
+/OEM\Preload\DPOP\OEMRESOURCE\Logo\Packard,OEM_Welcome.png,8330
+/OEM\Preload\DPOP\OEMRESOURCE\Logo\Packard,OEM_WinEMI.bmp,8330
+/OEM\Preload\DPOP\OEMRESOURCE\Logo\Packard,Thumbs.db,21504
+/OEM\Preload\DPOP\OEMRESOURCE\Wallpaper,acer01_Commercial.jpg,24481995
+/OEM\Preload\DPOP\OEMRESOURCE\Wallpaper,acer01_Consumer.jpg,27406696
+/OEM\Preload\DPOP\OEMRESOURCE\Wallpaper,Copy.cmd,1237
+/OEM\Preload\DPOP\OEMRESOURCE\Wallpaper,founderr01.jpg,6709182
+/OEM\Preload\DPOP\OEMRESOURCE\Wallpaper,Gateway01.jpg,707158
+/OEM\Preload\DPOP\OEMRESOURCE\Wallpaper,PackardBell01.jpg,778520
+/OEM\Preload\DPOP\SYSPREP,Acer_sysprep.cmd,6501
+/OEM\Preload\DPOP\SYSPREP,Acer_sysprep_Numlock.cmd,1265
+/OEM\Preload\DPOP\SYSPREP,Acer_sysprep_SetNotificationICON.cmd,2088
+/OEM\Preload\DPOP\SYSPREP,DetectFirmwareInterface_AMD64.exe,288912
+/OEM\Preload\DPOP\SYSPREP,DetectFirmwareInterface_X86.exe,203408
+/OEM\Preload\DPOP\SYSPREP,MOD01OPK010060000Z.enc,7136
+/OEM\Preload\DPOP\SYSPREP,MOD01OPK0F00600015.enc,10072
+/OEM\Preload\DPOP\SYSPREP,NumLock.vbs,78
+/OEM\Preload\DPOP\SYSPREP,Offline_Unattend.cmd,2098
+/OEM\Preload\DPOP\SYSPREP,RUN.cmd,782
+/OEM\Preload\DPOP\SYSPREP,SetP2Active.txt,37
+/OEM\Preload\DPOP\SYSPREP,_AddSysprepXmlDisableAntiSpyware.vbs,10894
+/OEM\Preload\DPOP\SYSPREP,_BackupFile.vbs,2492
+/OEM\Preload\DPOP\SYSPREP,_GetAV.vbs,772
+/OEM\Preload\DPOP\SYSPREP,_MergeNewGCMMRDandSysprepXML.vbs,3658
+/OEM\Preload\DPOP\SYSPREP,_RemoveUnnecessarySysprepItem.vbs,8148
+/OEM\Preload\DPOP\SYSPREP,_RemoveXMLUnwantNS.ps1,688
+/OEM\Preload\DPOP\SYSPREP,_SetPersistAllDeviceInstalls.vbs,7264
+/OEM\Preload\DPOP\SYSPREP,_UpdateSysprepXmlNotificationIcon.vbs,9448
+/OEM\Preload\DPOP\SYSPREP\factory,AcerReboot.exe,175456
+/OEM\Preload\DPOP\SYSPREP\factory,AddTaskbarLayoutPath.cmd,488
+/OEM\Preload\DPOP\SYSPREP\factory,FactorySysprep_FirstRunTask.cmd,1358
+/OEM\Preload\DPOP\SYSPREP\factory,FactorySysprep_LayoutModification.cmd,2071
+/OEM\Preload\DPOP\SYSPREP\factory,FactorySysprep_TBLayoutModification.cmd,2004
+/OEM\Preload\DPOP\SYSPREP\factory,Factory_sysprep.cmd,6289
+/OEM\Preload\DPOP\SYSPREP\factory,Factory_sysprep_Vars.cmd,668
+/OEM\Preload\DPOP\SYSPREP\factory,GenerateFirstRunTask.ps1,1323
+/OEM\Preload\DPOP\SYSPREP\factory,GenerateLayoutModification.ps1,4980
+/OEM\Preload\DPOP\SYSPREP\factory,LayoutModification.xml,1385
+/OEM\Preload\DPOP\SYSPREP\factory,LayoutModification_T.xml,368
+/OEM\Preload\DPOP\SYSPREP\factory,RestoreAppAssoc.cmd,852
+/OEM\Preload\DPOP\SYSPREP\factory,RestoreUnattend.ps1,1084
+/OEM\Preload\DPOP\SYSPREP\factory,RestoreUnattend.xml,5361
+/OEM\Preload\DPOP\SYSPREP\factory,SUB_AddTaskbarLayoutPath.cmd,552
+/OEM\Preload\DPOP\SYSPREP\factory,Sysprep.xml,2421
+/OEM\Preload\DPOP\SYSPREP\factory,TaskbarLayoutPath.reg,452
+/OEM\Preload\DPOP\SYSPREP\factory,_AddPromoteOEMTilesToSysprepxml.vbs,7302
+/OEM\Preload\DPOP\SYSPREP\factory,__MRD_MergeWithSysprepXML.vbs,2587
+/OEM\Preload\DPOP\SYSPREP\factory\SysprepXml\amd64\Acer,Sysprep.xml,2421
+/OEM\Preload\DPOP\SYSPREP\factory\SysprepXml\amd64\Founder,Sysprep.xml,1759
+/OEM\Preload\DPOP\SYSPREP\factory\SysprepXml\amd64\Gateway,Sysprep.xml,1766
+/OEM\Preload\DPOP\SYSPREP\factory\SysprepXml\amd64\Packard,Sysprep.xml,1775
+/OEM\Preload\DPOP\SYSPREP\factory\SysprepXml\x86\Acer,Sysprep.xml,1749
+/OEM\Preload\DPOP\SYSPREP\factory\SysprepXml\x86\Founder,Sysprep.xml,1765
+/OEM\Preload\DPOP\SYSPREP\factory\SysprepXml\x86\Gateway,Sysprep.xml,1771
+/OEM\Preload\DPOP\SYSPREP\factory\SysprepXml\x86\Packard,Sysprep.xml,1767
+/OEM\Preload\DPOP\SYSPREP\OfflineRCD\amd64\Acer,Unattend.xml,4477
+/OEM\Preload\DPOP\SYSPREP\OfflineRCD\amd64\Acer,Unattend.xml.2017Y12M19D17H21M17S,4744
+/OEM\Preload\DPOP\SYSPREP\OfflineRCD\amd64\Acer,Unattend.xml.2017Y12M19DH17M21S20R24,4483
+/OEM\Preload\DPOP\SYSPREP\OfflineRCD\amd64\Founder,Unattend.xml,4759
+/OEM\Preload\DPOP\SYSPREP\OfflineRCD\amd64\Gateway,Unattend.xml,4759
+/OEM\Preload\DPOP\SYSPREP\OfflineRCD\amd64\Packard,Unattend.xml,4778
+/OEM\Preload\DPOP\SYSPREP\OfflineRCD\x86\Acer,Unattend.xml,4730
+/OEM\Preload\DPOP\SYSPREP\OfflineRCD\x86\Founder,Unattend.xml,4745
+/OEM\Preload\DPOP\SYSPREP\OfflineRCD\x86\Gateway,Unattend.xml,4745
+/OEM\Preload\DPOP\SYSPREP\OfflineRCD\x86\Packard,Unattend.xml,4764
+/OEM\Preload\DPOP\SYSPREP\SysprepXml\amd64\Acer,Sysprep.xml,3940
+/OEM\Preload\DPOP\SYSPREP\SysprepXml\amd64\Founder,Sysprep.xml,3950
+/OEM\Preload\DPOP\SYSPREP\SysprepXml\amd64\Gateway,Sysprep.xml,3961
+/OEM\Preload\DPOP\SYSPREP\SysprepXml\amd64\Packard,Sysprep.xml,3976
+/OEM\Preload\DPOP\SYSPREP\SysprepXml\x86\Acer,Sysprep.xml,3936
+/OEM\Preload\DPOP\SYSPREP\SysprepXml\x86\Founder,Sysprep.xml,3953
+/OEM\Preload\DPOP\SYSPREP\SysprepXml\x86\Gateway,Sysprep.xml,3953
+/OEM\Preload\DPOP\SYSPREP\SysprepXml\x86\Packard,Sysprep.xml,3970
+/OEM\Preload\DPOP\SYSTEMMETADATA,Install.cmd,3416
+/OEM\Preload\DPOP\SYSTEMMETADATA,MOD01SET5X00ZZ0009.enc,4640
+/OEM\Preload\DPOP\TYPEMETADATA,DeviceFormMapping.ini,90
+/OEM\Preload\DPOP\TYPEMETADATA,Install.cmd,4084
+/OEM\Preload\DPOP\TYPEMETADATA,MOD01SETPD00ZZ000H.enc,5164
+/OEM\Preload\DPOP\TYPEMETADATA,_WriteDeviceForm.vbs,10460
+/OEM\Preload\EventLog,USERALAUNCH.zip,1920972
+/OEM\Preload\InstalledApps,05876f17-293f-451e-8f71-24b3f822deae.tag,10
+/OEM\Preload\InstalledApps,063dceae-730b-46b6-8908-01d847297653.tag,11
+/OEM\Preload\InstalledApps,145352e2-1b4c-42cf-a7f8-6e7a12fd2f48.tag,7
+/OEM\Preload\InstalledApps,229fa73f-43e4-4edb-8e03-691ce8a8ecbc.tag,21
+/OEM\Preload\InstalledApps,2fa89296-3675-4015-a9f2-b85537c722f5.tag,15
+/OEM\Preload\InstalledApps,39b1928e-e89d-4ab1-8b08-bc5e15237715.tag,10
+/OEM\Preload\InstalledApps,3aafa331-5b9d-443b-a9dd-24f874fda25a.tag,5
+/OEM\Preload\InstalledApps,45e08780-af83-4beb-96ab-f86558fdc170.tag,15
+/OEM\Preload\InstalledApps,4e70ebce-9aa5-4728-9aef-58ae52697d5f.tag,10
+/OEM\Preload\InstalledApps,56ae9d08-c999-452e-b796-ce1c5d3226a1.tag,10
+/OEM\Preload\InstalledApps,6bcd4ef0-377c-41cb-9a01-a9733bdda2c0.tag,4
+/OEM\Preload\InstalledApps,70d6f15c-4427-495c-af78-a3edc1db0fc7.tag,10
+/OEM\Preload\InstalledApps,a830353c-31f6-4dbd-822d-f80844f334bc.tag,10
+/OEM\Preload\InstalledApps,a91b4983-ddab-45ee-a89d-861f126ab632.tag,9
+/OEM\Preload\InstalledApps,c3ce94bb-7b3f-42e9-bfa0-8b5190ff7017.tag,10
+/OEM\Preload\InstalledApps,d019c441-cfdf-4185-a50d-06b853d22a19.tag,11
+/OEM\Preload\InstalledApps,d725ab11-ed9d-4d3e-ae3d-cf585522a0ac.tag,12
+/OEM\Preload\InstalledApps,d72a7a57-478a-4f48-bb60-514ffd348583.tag,8
+/OEM\Preload\InstalledApps,f2d76b74-5ce5-4be4-8046-72be5e61a97d.tag,10
+/OEM\Preload\InstalledApps\NA,a91b4983-ddab-45ee-a89d-861f126ab632.tag,117
+/OEM\Preload\InstalledApps\SS,05876f17-293f-451e-8f71-24b3f822deae.tag,85
+/OEM\Preload\InstalledApps\SS,063dceae-730b-46b6-8908-01d847297653.tag,41
+/OEM\Preload\InstalledApps\SS,229fa73f-43e4-4edb-8e03-691ce8a8ecbc.tag,52
+/OEM\Preload\InstalledApps\SS,56ae9d08-c999-452e-b796-ce1c5d3226a1.tag,55
+/OEM\Preload\InstalledApps\SS,70d6f15c-4427-495c-af78-a3edc1db0fc7.tag,75
+/OEM\Preload\InstalledApps\SS,d019c441-cfdf-4185-a50d-06b853d22a19.tag,46
+/OEM\Preload\InstalledApps\TB,145352e2-1b4c-42cf-a7f8-6e7a12fd2f48.tag,75
+/OEM\Preload\Logs\RunCmdX,RunCmdX_2017_12_19_17_36_55_469.log,105
+/OEM\Preload\Logs\RunCmdX,RunCmdX_2017_12_19_17_51_20_767.log,105
+/OEM\Preload\Logs\RunCmdX,RunCmdX_2017_12_19_17_56_29_153.log,105
+/OEM\Preload\Logs\RunCmdX,RunCmdX_2017_12_19_18_06_51_970.log,105
+/OEM\Preload\Logs\RunCmdX,RunCmdX_2017_12_19_18_19_21_186.log,105
+/OEM\Preload\Logs\RunCmdX,RunCmdX_2017_12_19_18_26_22_161.log,105
+/OEM\Preload\Logs\RunCmdX,RunCmdX_2017_12_19_18_42_29_765.log,105
+/OEM\Preload\Logs\RunCmdX,RunCmdX_2017_12_19_19_14_49_252.log,105
+/OEM\Preload\Logs\RunCmdX,RunCmdX_2018_09_21_12_31_31_682.log,65
+/OEM\Preload\Logs\RunCmdX,RunCmdX_2018_09_21_12_31_54_537.log,72
+/OEM\Preload\Logs\RunCmdX,RunCmdX_2018_09_21_12_32_06_019.log,78
+/OEM\Preload\Logs\RunCmdX,RunCmdX_2018_09_21_12_32_09_681.log,78
+/OEM\Preload\Logs\RunCmdX,RunCmdX_2018_09_21_12_32_24_033.log,77
+/OEM\Preload\MAKESUREDPKERASED,FailMsg.vbs,158
+/OEM\Preload\MAKESUREDPKERASED,MOD01SETQ400400001.enc,2816
+/OEM\Preload\MAKESUREDPKERASED,OEMCheckMSDM.log,1147
+/OEM\Preload\MAKESUREDPKERASED,OEMCheckMSDM_amd64.exe,11776
+/OEM\Preload\MAKESUREDPKERASED,OEMCheckMSDM_x86.exe,10240
+/OEM\Preload\MAKESUREDPKERASED,RCD_Never_Inlucde_DPK.cmd,1017
+/OEM\Preload\PreloadX_SP,MOD01SETM30060000D.enc,2764
+/OEM\Preload\PreloadX_SP\A00TN,RV07.LPCD,71
+/OEM\Preload\Region,AAP.tag,10
+/OEM\Preload\RunCmdLog,RunCmd2018-09-21 10-15-17.log,413
+/OEM\Preload\SCL,RCD_.dat,33280
+/OEM\Preload\SCL,SCD_RV06RC.dat,89088
+/OEM\Preload\utility,devcon_amd64.exe,81920
+/OEM\Preload\utility,devcon_x86.exe,77824
+/OEM\Preload\utility,FindValidDriveLetter.cmd,833
+/OEM\Preload\utility,PreloadSystemInfo.exe,324960
+/OEM\Preload\utility,PreloadSystemInfo_2017_12_19_18_13_43_203.log,1852
+/OEM\Preload\utility,PreloadSystemInfo_2017_12_19_18_13_43_719.log,1852
+/OEM\Preload\utility,PreloadSystemInfo_2017_12_19_18_13_44_214.log,3070
+/OEM\Preload\utility,PreloadSystemInfo_2017_12_19_18_13_44_996.log,3070
+/OEM\Preload\utility,RunCmd.exe,236896
+/OEM\Preload\utility,RunCmd_X64.exe,345440
+/OEM\Preload\utility,vols.log,8
+/OEM\Preload\utility,_GetACERDATALetter.vbs,431
+/OEM\Preload\utility,_listUsingDriveLetters.vbs,554
+/OEM\Preload\utility,_Timeout.vbs,349
+/OEM\Preload\utility\AlaunchXWatchDog,AlaunchXWatchDog.cmd,1443
+/OEM\Preload\utility\AlaunchXWatchDog,config.ini,165
+/OEM\Preload\utility\AlaunchXWatchDog,msvcr110.dll,862664
+/OEM\Preload\utility\AlaunchXWatchDog,WatchDog.exe,17760
+/OEM\Preload\utility\GCM,gcmt.cmd,3421
+/OEM\Preload\utility\GCM,gcmt.exe,23392
+/OEM\Preload\utility\GCM,GCMT_V.log,46
+/OEM\Preload\utility\GCM,MOD01SETXH00600007.enc,3500
+/OEM\Preload\utility\GCM,MRDCreaterX_amd64.exe,664992
+/OEM\Preload\utility\GCM,MRDCreaterX_x86.exe,384416
+/OEM\Preload\utility\GCM,NAMRD.xml,254
+/OEM\Preload\utility\GCM,SMMRD.xml,1167
+/OEM\Preload\utility\GCM,SMTempMRD.xml,1063
+/OEM\Preload\utility\GCM,TBMRD.xml,714
+/OEM\Preload\utility\GCM,__ChkPIDFromGCMXML.vbs,1295
+/OEM\Preload\utility\NoUse,DELVOLUME.EXE,30048
+/OEM\Preload\utility\NoUse,LauncheRyDiscCalc.exe,28000
+/OEM\Preload\utility\NoUse,NowIntoDT.exe,232800
+/OEM\Preload\utility\NoUse,setEvent.exe,232800
+/OEM\Preload\utility\NoUse,SetScreenSaver.exe,339296
+/OEM\Preload\utility\NoUse,waitEvent.exe,232800
+/OEM\Preload\utility\NoUse,_listUsingFixedDiskDriveLetters.vbs,802
+/OEM\Preload\utility\NoUse,_NowIntoDT.vbs,486
+/OEM\Preload\utility\RebootWatchDog,CheckingEvent_1073.vbs,1512
+/OEM\Preload\utility\RebootWatchDog,config.ini,211
+/OEM\Preload\utility\RebootWatchDog,GetDate.vbs,188
+/OEM\Preload\utility\RebootWatchDog,Leave_RebootWatchDog.tag,61
+/OEM\Preload\utility\RebootWatchDog,msvcr110.dll,862664
+/OEM\Preload\utility\RebootWatchDog,RebootWatchDog.cmd,3673
+/OEM\Preload\utility\RebootWatchDog,RunCmdX.exe,173408
+/OEM\Preload\utility\RebootWatchDog,TaskList_PS1.txt,0
+/OEM\Preload\utility\RebootWatchDog,WatchDog.exe,17760
