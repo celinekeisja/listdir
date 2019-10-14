@@ -48,7 +48,6 @@ if __name__ == "__main__":
     parser.add_argument("path")
     parser.add_argument("name")
     args = parser.parse_args()
-    if args.path:
-        directory_name = args.path
-        output_name = args.name
-        directory_files(output_name, directory_name)
+    directory_name = args.path
+    output_name = args.name
+    directory_files(output_name, directory_name)
