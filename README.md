@@ -1,6 +1,6 @@
 # listdir
 This is a Python program that takes the path of a directory and lists the Parent
-Path, File Name, and File Size of the files within that directory into a csv file.
+Path, File Name, File Size, Hash in MD5, and Hash in SHA1 of the files within that directory into a csv file and zips it.
 
 ## Requirements
 Python 3
