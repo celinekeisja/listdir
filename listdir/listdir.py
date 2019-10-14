@@ -6,7 +6,7 @@ import zipfile
 
 
 def hash_file(file, algorithm):
-    # Hashes the file using MD5 algorithm.
+    ''' Hashes the file using MD5 or SHA1 algorithm. '''
     if algorithm == 'md5':
         hasher = hashlib.md5()
     elif algorithm == 'sha1':
@@ -22,13 +22,13 @@ def hash_file(file, algorithm):
 
 
 def zip_file(name):
-    # Zips the file under the user-defined name.
+    ''' Zips the file under the user-defined name. '''
     with zipfile.ZipFile(f"{name}.zip", 'w') as file:
         file.write(name)
 
 
 def directory_files(name, files):
-    # Puts the Parent Path, File Name, and File Size of files within the specified directory in a CSV file.
+    ''' Puts the Parent Path, File Name, File Size, Hash in MD5, and Hash in SHA1 of files within the specified directory in a CSV file. '''
     with open(f'{name}.csv', 'w+', newline='') as csv_file:
         field_n = ['Parent Path', 'File Name', 'File Size', 'MD5', 'SHA1']
         writer = csv.DictWriter(csv_file, fieldnames=field_n)
