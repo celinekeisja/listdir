@@ -28,7 +28,7 @@ def zip_file(name):
 
 
 def directory_files(name, files):
-    ''' Puts the Parent Path, File Name, File Size, Hash in MD5, and Hash in SHA1 of files within the specified directory in a CSV file. '''
+    ''' Puts the Parent Path, File Name, File Size, Hash in MD5, and Hash in SHA1 of files within the specified directory in a CSV file and zips it. '''
     with open(f'{name}.csv', 'w+', newline='') as csv_file:
         field_n = ['Parent Path', 'File Name', 'File Size', 'MD5', 'SHA1']
         writer = csv.DictWriter(csv_file, fieldnames=field_n)
