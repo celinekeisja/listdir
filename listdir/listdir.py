@@ -25,7 +25,7 @@ def hash_file(file, algorithm):
 
 def zip_file(name):
     """ Zip the file under the user-defined name. """
-    with zipfile.ZipFile(f"{name}.zip", 'w') as file:
+    with zipfile.ZipFile(f"{name}.zip", 'w', zipfile.ZIP_DEFLATED) as file:
         file.write(name)
 
 
