@@ -27,12 +27,11 @@ def zip_file(name):
     """ Zip the file under the user-defined name. """
     with zipfile.ZipFile(f"{name}.zip", 'w', zipfile.ZIP_DEFLATED) as file:
         file.write(name)
-
+    return f'{name}.zip'
 
 def datetime_filename(given_name):
     """ Include the current date and time onto the specified file name. """
-    now = datetime.now()
-    return f'{given_name}_{now.strftime("%Y%m%d_%H%M%S")}'
+    return f'{given_name}_{datetime.now().strftime("%Y%m%d_%H%M%S")}'
 
 
 def directory_files(name, files):
@@ -48,7 +47,7 @@ def directory_files(name, files):
                      "MD5": hash_file(f"{r}/{file}", 'md5'), "SHA1": hash_file(f"{r}/{file}", 'sha1')}
                 writer.writerow(d)
     zip_file(f'{name}.csv')
-    return f'Created and zipped {name}.csv!'
+    return f'{name}.csv'
 
 
 def main():
