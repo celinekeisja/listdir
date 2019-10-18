@@ -10,3 +10,8 @@ Please follow the command for the syntax:
 ```
   python listdir.py /[directory_path] [csv_filename]
 ```
+## Unit Test
+Syntax
+```
+  python -m pytest --cov=listdir test_listdir.py
+```
