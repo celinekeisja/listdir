@@ -8,3 +8,8 @@
 2019-10-21 17:58:43,747 - __main__ - INFO - Creating zip...
 2019-10-21 17:58:43,753 - __main__ - INFO - Zipping done.
 2019-10-21 17:58:43,753 - __main__ - INFO - Finished creating default_file_20191021_175843.csv.zip.
+2019-10-21 18:01:02,240 - __main__ - INFO - Naming default_file
+2019-10-21 18:01:02,241 - __main__ - INFO - Result: default_file_20191021_180102
+2019-10-21 18:01:45,806 - __main__ - INFO - Naming default_file
+2019-10-21 18:01:45,806 - __main__ - INFO - Result: default_file_20191021_180145
+2019-10-21 18:01:45,806 - __main__ - ERROR - Did not specify file type.

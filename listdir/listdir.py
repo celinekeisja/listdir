@@ -143,18 +143,20 @@ def main():
     args = parser.parse_args()
     directory_name = args.path
     output_name = datetime_filename(args.name)
-
-    if args.json:
-        try:
-            new_name = zip_file(json_files(output_name, directory_name))
-        except:
-            logger.error('Unable to zip file.')
-    elif args.csv:
-        try:
-            new_name = zip_file(csv_files(output_name, directory_name))
-        except:
-            logger.error('Unable to zip file.')
-    logger.info(f'Finished creating {new_name}.')
+    try:
+        if args.json:
+            try:
+                new_name = zip_file(json_files(output_name, directory_name))
+            except:
+                logger.error('Unable to zip file.')
+        elif args.csv:
+            try:
+                new_name = zip_file(csv_files(output_name, directory_name))
+            except:
+                logger.error('Unable to zip file.')
+        logger.info(f'Finished creating {new_name}.')
+    except:
+        logger.error('Did not specify file type.')
 
 
 if __name__ == "__main__":
