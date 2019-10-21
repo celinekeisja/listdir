@@ -139,6 +139,7 @@ def main():
     parser.add_argument("path", nargs="?", default=config['default']['input_path'])
     parser.add_argument("name", nargs="?", default=config['default']['output_name'])
     parser.add_argument("-j", "--json", action="store_true")
+    parser.add_argument("-c", "--csv", action="store_true")
     args = parser.parse_args()
     directory_name = args.path
     output_name = datetime_filename(args.name)
@@ -148,7 +149,7 @@ def main():
             new_name = zip_file(json_files(output_name, directory_name))
         except:
             logger.error('Unable to zip file.')
-    else:
+    elif args.csv:
         try:
             new_name = zip_file(csv_files(output_name, directory_name))
         except:

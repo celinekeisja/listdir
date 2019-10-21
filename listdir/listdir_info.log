@@ -1,0 +1,10 @@
+2019-10-21 17:58:43,737 - __main__ - INFO - Naming default_file
+2019-10-21 17:58:43,737 - __main__ - INFO - Result: default_file_20191021_175843
+2019-10-21 17:58:43,738 - __main__ - INFO - Opening new .csv file.
+2019-10-21 17:58:43,738 - __main__ - INFO - Including the ff. headers: ['Parent Path', 'File Name', 'File Size', 'MD5', 'SHA1'].
+2019-10-21 17:58:43,738 - __main__ - INFO - Writing rows...
+2019-10-21 17:58:43,746 - __main__ - INFO - Finished with .csv file. Onto zipping...
+2019-10-21 17:58:43,746 - __main__ - INFO - Zipping default_file_20191021_175843.csv
+2019-10-21 17:58:43,747 - __main__ - INFO - Creating zip...
+2019-10-21 17:58:43,753 - __main__ - INFO - Zipping done.
+2019-10-21 17:58:43,753 - __main__ - INFO - Finished creating default_file_20191021_175843.csv.zip.
