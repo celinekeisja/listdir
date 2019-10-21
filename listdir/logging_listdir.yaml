@@ -3,7 +3,7 @@ version: 1
 disable_existing_loggers: False
 formatters:
   simple:
-    format_log : "%(asctime)s - %(name)s - %(levelname)s - %(funcName)s:%(lineno)d - %(messages)s"
+    format: '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 
 handlers:
   console:
@@ -17,7 +17,7 @@ handlers:
     level: INFO
     formatter: simple
     filename: listdir_info.log
-    maxBytes: 5242880 #5MB
+    maxBytes: 5242880
     backupCount: 5
     encoding: utf8
 
@@ -25,13 +25,13 @@ handlers:
     class: logging.handlers.RotatingFileHandler
     level: ERROR
     formatter: simple
-    filename: listdir_debug.log
-    maxBytes: 5242880 #5MB
+    filename: listdir_error.log
+    maxBytes: 5242880
     backupCount: 5
     encoding: utf8
 
 loggers:
-  my_module:
+  listdir:
     level: ERROR
     handlers: [console]
     propagate: no
