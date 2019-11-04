@@ -1,0 +1,38 @@
+2019-11-04 15:54:55,663 - __main__ - ERROR - Error in DB - name 'logger' is not defined
+2019-11-04 15:58:14,939 - __main__ - ERROR - Error in connection - FATAL:  password authentication failed for user "postgres"
+
+2019-11-04 15:58:14,940 - __main__ - ERROR - 'NoneType' object has no attribute 'cursor'
+2019-11-04 15:58:38,289 - __main__ - ERROR - Error in connection - FATAL:  password authentication failed for user "postgres"
+
+2019-11-04 15:58:38,290 - __main__ - ERROR - 'NoneType' object has no attribute 'cursor'
+2019-11-04 15:59:29,616 - __main__ - ERROR - Error in connection - FATAL:  database "test_db" does not exist
+
+2019-11-04 15:59:29,616 - __main__ - ERROR - 'NoneType' object has no attribute 'cursor'
+2019-11-04 16:01:24,017 - __main__ - ERROR - Error in connection - FATAL:  database "test_db" does not exist
+
+2019-11-04 16:01:24,018 - __main__ - ERROR - 'NoneType' object has no attribute 'cursor'
+2019-11-04 16:06:57,995 - __main__ - ERROR - Error in connection - FATAL:  database "test_db" does not exist
+
+2019-11-04 16:06:57,995 - __main__ - ERROR - 'NoneType' object has no attribute 'cursor'
+2019-11-04 16:08:25,227 - __main__ - ERROR - Error in connection - FATAL:  password authentication failed for user "postgres"
+
+2019-11-04 16:08:25,227 - __main__ - ERROR - 'NoneType' object has no attribute 'cursor'
+2019-11-04 16:10:32,718 - __main__ - ERROR - Error in connection - FATAL:  database "test_db" does not exist
+
+2019-11-04 16:10:32,719 - __main__ - ERROR - 'NoneType' object has no attribute 'cursor'
+2019-11-04 16:10:50,636 - __main__ - ERROR - Error in connection - FATAL:  database "test_db" does not exist
+
+2019-11-04 16:10:50,637 - __main__ - ERROR - 'NoneType' object has no attribute 'cursor'
+2019-11-04 16:11:40,584 - __main__ - ERROR - Error in connection - FATAL:  database "test_db" does not exist
+
+2019-11-04 16:11:40,586 - __main__ - ERROR - 'NoneType' object has no attribute 'cursor'
+2019-11-04 16:12:01,672 - __main__ - ERROR - Error in connection - FATAL:  database "test_db" does not exist
+
+2019-11-04 16:12:01,673 - __main__ - ERROR - 'NoneType' object has no attribute 'cursor'
+2019-11-04 16:22:36,021 - __main__ - ERROR - Error in DB - module 'create_db_table' has no attribute 'table'
+2019-11-04 16:41:11,982 - __main__ - ERROR - Error in connection - FATAL:  password authentication failed for user "postgres"
+
+2019-11-04 16:41:11,983 - __main__ - ERROR - 'NoneType' object has no attribute 'cursor'
+2019-11-04 16:42:18,298 - __main__ - ERROR - Unable to insert record - null value in column "datetime" violates not-null constraint
+DETAIL:  Failing row contains (1, null, ., config.ini, 118, 75e2f21c692cb4fe6601f3c417b72350, 8aeced47bad30e683a0e071fe4edc7ba48ae9b9a).
+

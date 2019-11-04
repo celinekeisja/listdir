@@ -8,14 +8,13 @@ import logging.config
 import os
 import zipfile
 from datetime import datetime
-
 import psycopg2
 import yaml
+import create_db_table
 
-import create_table
 
-
-def db_connection(hostname, username):
+def database_connection(hostname, username):
+    """Connects to the database."""
     try:
         connection = psycopg2.connect(user=username,
                                       password=gp.getpass('Password: '),
@@ -27,7 +26,8 @@ def db_connection(hostname, username):
         logger.error(f"Error in connection - {e}")
 
 
-def db_insert(connection, files):
+def database_insert(connection, files):
+    """Inserts records of files in a database."""
     try:
         cursor = connection.cursor()
         try:
@@ -37,24 +37,23 @@ def db_insert(connection, files):
                     insert_query = """INSERT INTO listdir_table 
                     (PARENT_PATH, FILE_NAME, FILE_SIZE, MD5, SHA1) 
                     VALUES (%s, %s, %s, %s, %s);"""
-                    record_to_insert = (r, file, size, hash_file(f"{r}{os.sep}{file}", 'md5'), hash_file(f"{r}{os.sep}{file}", 'sha1'))
+                    record_to_insert = (
+                    r, file, size, hash_file(f"{r}{os.sep}{file}", 'md5'), hash_file(f"{r}{os.sep}{file}", 'sha1'))
                     cursor.execute(insert_query, record_to_insert)
                     connection.commit()
         except (Exception, psycopg2.Error) as error:
             logger.error(f"Unable to insert record - {error}")
-
     except (Exception, psycopg2.Error) as error:
         logger.error(error)
     finally:
-        if(connection):
+        if connection:
             cursor.close()
             connection.close()
 
 
-def setup_logging(
-        default_path='logging_listdir.yaml',
-        default_level=logging.INFO,
-        env_key='LOG_CFG'):
+def setup_logging(default_path='logging_listdir.yaml',
+                  default_level=logging.INFO,
+                  env_key='LOG_CFG'):
     """ Setup logging configuration. """
     path = default_path
     value = os.getenv(env_key, None)
@@ -78,7 +77,7 @@ def json_files(name, files):
             try:
                 for r, d, f in os.walk(files):
                     for file in f:
-                        size = os.path.getsize(r+os.sep+file)
+                        size = os.path.getsize(r + os.sep + file)
                         path_to_hash = f"{r}{os.sep}{file}"
                         data = {}
                         data[file] = []
@@ -157,9 +156,10 @@ def csv_files(name, files):
             try:
                 for r, d, f in os.walk(files):
                     for file in f:
-                        size = os.path.getsize(r+os.sep+file)
+                        size = os.path.getsize(r + os.sep + file)
                         d = {"Parent Path": r, "File Name": file, "File Size": size,
-                             "MD5": hash_file(f"{r}{os.sep}{file}", 'md5'), "SHA1": hash_file(f"{r}{os.sep}{file}", 'sha1')}
+                             "MD5": hash_file(f"{r}{os.sep}{file}", 'md5'),
+                             "SHA1": hash_file(f"{r}{os.sep}{file}", 'sha1')}
                         writer.writerow(d)
             except:
                 logger.error("Unable to write file.")
@@ -186,9 +186,12 @@ def main():
     try:
         if args.db:
             try:
-                connection = db_connection(config['db']['hostname'], config['db']['username'])
-                create_table.table(connection)
-                db_insert(connection, directory_name)
+                hostname = config['db']['hostname']
+                username = config['db']['username']
+                create_db_table.check_database(hostname, username)
+                connection = database_connection(hostname, username)
+                create_db_table.create_table(connection)
+                database_insert(connection, directory_name)
             except Exception as e:
                 logger.error(f"Error in DB - {e}")
             logger.info(f'Finished inserting records.')
