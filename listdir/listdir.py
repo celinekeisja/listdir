@@ -18,7 +18,7 @@ import create_table
 def db_connection(hostname, username):
     try:
         connection = psycopg2.connect(user=username,
-                                      password="password",
+                                      password=gp.getpass('Password: '),
                                       host=hostname,
                                       port="5433",
                                       database="listdir_db")
@@ -27,7 +27,7 @@ def db_connection(hostname, username):
         logger.error(f"Error in connection - {e}")
 
 
-def db(connection, files):
+def db_insert(connection, files):
     try:
         cursor = connection.cursor()
         try:
@@ -188,7 +188,7 @@ def main():
             try:
                 connection = db_connection(config['db']['hostname'], config['db']['username'])
                 create_table.table(connection)
-                db(connection, directory_name)
+                db_insert(connection, directory_name)
             except Exception as e:
                 logger.error(f"Error in DB - {e}")
             logger.info(f'Finished inserting records.')
