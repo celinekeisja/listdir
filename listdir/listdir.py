@@ -1,20 +1,60 @@
-import os
 import argparse
-import csv
-import hashlib
-import zipfile
 import configparser
-from datetime import datetime
-import logging.config
-import yaml
+import csv
+import getpass as gp
+import hashlib
 import json
+import logging.config
+import os
+import zipfile
+from datetime import datetime
+
+import psycopg2
+import yaml
+
+import create_table
+
+
+def db_connection(hostname, username):
+    try:
+        connection = psycopg2.connect(user=username,
+                                      password="password",
+                                      host=hostname,
+                                      port="5433",
+                                      database="listdir_db")
+        return connection
+    except Exception as e:
+        logger.error(f"Error in connection - {e}")
+
+
+def db(connection, files):
+    try:
+        cursor = connection.cursor()
+        try:
+            for r, d, f in os.walk(files):
+                for file in f:
+                    size = os.path.getsize(r + os.sep + file)
+                    insert_query = """INSERT INTO listdir_table 
+                    (PARENT_PATH, FILE_NAME, FILE_SIZE, MD5, SHA1) 
+                    VALUES (%s, %s, %s, %s, %s);"""
+                    record_to_insert = (r, file, size, hash_file(f"{r}{os.sep}{file}", 'md5'), hash_file(f"{r}{os.sep}{file}", 'sha1'))
+                    cursor.execute(insert_query, record_to_insert)
+                    connection.commit()
+        except (Exception, psycopg2.Error) as error:
+            logger.error(f"Unable to insert record - {error}")
+
+    except (Exception, psycopg2.Error) as error:
+        logger.error(error)
+    finally:
+        if(connection):
+            cursor.close()
+            connection.close()
 
 
 def setup_logging(
         default_path='logging_listdir.yaml',
         default_level=logging.INFO,
-        env_key='LOG_CFG'
-):
+        env_key='LOG_CFG'):
     """ Setup logging configuration. """
     path = default_path
     value = os.getenv(env_key, None)
@@ -54,7 +94,7 @@ def json_files(name, files):
                 logger.error("Unable to write file.")
     except:
         logger.error('Unable to write a new file.')
-    logger.info('Finished with .csv file. Onto zipping...')
+    logger.info('Finished with .json file. Onto zipping...')
     return f'{name}.json'
 
 
@@ -140,23 +180,34 @@ def main():
     parser.add_argument("name", nargs="?", default=config['default']['output_name'])
     parser.add_argument("-j", "--json", action="store_true")
     parser.add_argument("-c", "--csv", action="store_true")
+    parser.add_argument("-d", "--db", action="store_true")
     args = parser.parse_args()
     directory_name = args.path
-    output_name = datetime_filename(args.name)
     try:
-        if args.json:
+        if args.db:
             try:
-                new_name = zip_file(json_files(output_name, directory_name))
-            except:
-                logger.error('Unable to zip file.')
-        elif args.csv:
-            try:
-                new_name = zip_file(csv_files(output_name, directory_name))
-            except:
-                logger.error('Unable to zip file.')
-        logger.info(f'Finished creating {new_name}.')
+                connection = db_connection(config['db']['hostname'], config['db']['username'])
+                create_table.table(connection)
+                db(connection, directory_name)
+            except Exception as e:
+                logger.error(f"Error in DB - {e}")
+            logger.info(f'Finished inserting records.')
+        else:
+            output_name = datetime_filename(args.name)
+            if args.json:
+                try:
+                    new_name = zip_file(json_files(output_name, directory_name))
+                except:
+                    logger.error('Unable to zip file.')
+                logger.info(f'Finished creating {new_name}.')
+            elif args.csv:
+                try:
+                    new_name = zip_file(csv_files(output_name, directory_name))
+                except:
+                    logger.error('Unable to zip file.')
+                logger.info(f'Finished creating {new_name}.')
     except:
-        logger.error('Did not specify file type.')
+        logger.error('Did not specify type.')
 
 
 if __name__ == "__main__":

@@ -1,1 +1,31 @@
 2019-10-21 18:01:45,806 - __main__ - ERROR - Did not specify file type.
+2019-11-04 13:07:57,895 - __main__ - ERROR - Error in DB.
+2019-11-04 13:22:54,723 - __main__ - ERROR - Error in DB.
+2019-11-04 13:25:45,728 - __main__ - ERROR - Error in DB.
+2019-11-04 13:26:53,358 - __main__ - ERROR - Error in DB - <function db at 0x000002271E7A9168>
+2019-11-04 13:28:02,116 - __main__ - ERROR - Error in DB - <function db at 0x0000019DEF237168>
+2019-11-04 13:29:48,596 - __main__ - ERROR - Error in DB - <function db at 0x000001ADF6E18168>
+2019-11-04 13:30:59,621 - __main__ - ERROR - Error in DB - <function db at 0x00000200C02A7168>
+2019-11-04 13:31:48,337 - __main__ - ERROR - Error in DB - <function db at 0x000002564F3B7168>
+2019-11-04 13:32:01,325 - __main__ - ERROR - Error in DB - <function db at 0x0000020F250D8168>
+2019-11-04 13:32:41,076 - __main__ - ERROR - Error in DB - <function db at 0x000002788D9F7168>
+2019-11-04 13:34:00,822 - __main__ - ERROR - Error in DB - <function db at 0x000001AA6DB87168>
+2019-11-04 13:43:47,731 - __main__ - ERROR - Error in DB - <function db at 0x000001651D7E6168>
+2019-11-04 13:44:16,894 - __main__ - ERROR - Error in DB - <function db at 0x000002895FA26168>
+2019-11-04 13:44:37,508 - __main__ - ERROR - Error in DB - <function db at 0x000001A4946471F8>
+2019-11-04 13:46:04,039 - __main__ - ERROR - Error in DB - <function db at 0x0000026C2B3F71F8>
+2019-11-04 13:46:29,138 - __main__ - ERROR - Error in DB - <function db at 0x0000012B390171F8>
+2019-11-04 13:47:25,008 - __main__ - ERROR - Error in DB - <function db at 0x00000258F43C61F8>
+2019-11-04 13:47:56,248 - __main__ - ERROR - Did not specify type.
+2019-11-04 13:49:14,208 - __main__ - ERROR - Error in DB - local variable 'connection' referenced before assignment
+2019-11-04 13:49:59,318 - __main__ - ERROR - Error in connection - could not translate host name "postgres" to address: Unknown host
+
+2019-11-04 13:49:59,319 - __main__ - ERROR - 'NoneType' object has no attribute 'cursor'
+2019-11-04 14:03:10,226 - __main__ - ERROR - Error in connection - could not translate host name "postgres" to address: Unknown host
+
+2019-11-04 14:03:10,226 - __main__ - ERROR - 'NoneType' object has no attribute 'cursor'
+2019-11-04 14:04:49,215 - __main__ - ERROR - connection already closed
+2019-11-04 14:04:49,216 - __main__ - ERROR - Error in DB - local variable 'cursor' referenced before assignment
+2019-11-04 14:06:19,016 - __main__ - ERROR - Unable to insert record - null value in column "id" violates not-null constraint
+DETAIL:  Failing row contains (null, ., config.ini, 118, 75e2f21c692cb4fe6601f3c417b72350, 8aeced47bad30e683a0e071fe4edc7ba48ae9b9a).
+
