@@ -34,11 +34,11 @@ def database_insert(connection, files):
             for r, d, f in os.walk(files):
                 for file in f:
                     size = os.path.getsize(r + os.sep + file)
+                    path = os.path.abspath(r + os.sep + file)
                     insert_query = """INSERT INTO listdir_table 
                     (PARENT_PATH, FILE_NAME, FILE_SIZE, MD5, SHA1) 
                     VALUES (%s, %s, %s, %s, %s);"""
-                    record_to_insert = (
-                    r, file, size, hash_file(f"{r}{os.sep}{file}", 'md5'), hash_file(f"{r}{os.sep}{file}", 'sha1'))
+                    record_to_insert = (path, file, size, hash_file(f"{r}{os.sep}{file}", 'md5'), hash_file(f"{r}{os.sep}{file}", 'sha1'))
                     cursor.execute(insert_query, record_to_insert)
                     connection.commit()
         except (Exception, psycopg2.Error) as error:
@@ -78,15 +78,15 @@ def json_files(name, files):
                 for r, d, f in os.walk(files):
                     for file in f:
                         size = os.path.getsize(r + os.sep + file)
-                        path_to_hash = f"{r}{os.sep}{file}"
+                        path = os.path.abspath(r + os.sep + file)
                         data = {}
                         data[file] = []
                         data[file].append({
-                            'Parent Path': r,
+                            'Parent Path': path,
                             'File Name': file,
                             'File Size': size,
-                            'MD5': hash_file(path_to_hash, 'md5'),
-                            'SHA1': hash_file(path_to_hash, 'sha1')
+                            'MD5': hash_file(path, 'md5'),
+                            'SHA1': hash_file(path, 'sha1')
                         })
                         json.dump(data, json_file, indent=2)
             except:
@@ -156,10 +156,11 @@ def csv_files(name, files):
             try:
                 for r, d, f in os.walk(files):
                     for file in f:
-                        size = os.path.getsize(r + os.sep + file)
-                        d = {"Parent Path": r, "File Name": file, "File Size": size,
-                             "MD5": hash_file(f"{r}{os.sep}{file}", 'md5'),
-                             "SHA1": hash_file(f"{r}{os.sep}{file}", 'sha1')}
+                        path = os.path.abspath(r + os.sep + file)
+                        size = os.path.getsize(path)
+                        d = {"Parent Path": path, "File Name": file, "File Size": size,
+                             "MD5": hash_file(f"{path}", 'md5'),
+                             "SHA1": hash_file(f"{path}", 'sha1')}
                         writer.writerow(d)
             except:
                 logger.error("Unable to write file.")
