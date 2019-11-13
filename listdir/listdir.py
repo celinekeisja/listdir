@@ -12,11 +12,10 @@ import psycopg2
 import yaml
 import create_db_table
 import pika
-import sys
 
 
 def send_to_queue(hostname, queue_name, routing_key, files):
-    """"""
+    """Connects to queue and sends file information in json format."""
     connection = pika.BlockingConnection(
         pika.ConnectionParameters(host=hostname))
     channel = connection.channel()
@@ -25,10 +24,10 @@ def send_to_queue(hostname, queue_name, routing_key, files):
         for r, d, f in os.walk(files):
             for file in f:
                 i = json.dumps(json_rows(r, file))
-                channel.basic_publish(exchange='logs',
+                channel.basic_publish(exchange='',
                                       routing_key=routing_key,
                                       body=i)
-                print("[x] Sent {} to queue!".format(i))
+                logging.info("[x] Sent {} to queue!".format(i))
         return "[x] Sent!"
     except:
         logger.error("Unable to json.")
@@ -200,6 +199,7 @@ def main():
     """ Main function """
     config = configparser.ConfigParser()
     o = os.path.dirname(__file__)
+    p = o + 'config.ini'
     config.read(o + 'config.ini')
     setup_logging()
     parser = argparse.ArgumentParser()
