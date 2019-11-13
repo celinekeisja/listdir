@@ -1,6 +1,6 @@
-import setuptools
+from setuptools import setup, find_packages
 
-setuptools.setup(
+setup(
     name='listdir',
     version='1.0',
     description='A program that takes the path of a directory and lists the Parent Path, File Name, and File Size of the files within that directory into a database, json file, or csv file.',
@@ -14,5 +14,5 @@ setuptools.setup(
         'License :: OSI Approved :: MIT License',
         'Programming Language :: Python'
     ],
-    python_requires='>=3.7'
+    python_requires='>=3.7',
 )

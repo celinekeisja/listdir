@@ -6,6 +6,10 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+psycopg2 = "*"
+yaml = "*"
+pyyaml = "*"
+pika = "*"
 
 [requires]
 python_version = "3.7"

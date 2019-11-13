@@ -16,12 +16,11 @@ import sys
 
 
 def send_to_queue(hostname, queue_name, routing_key, files):
+    """"""
     connection = pika.BlockingConnection(
         pika.ConnectionParameters(host=hostname))
     channel = connection.channel()
-    # channel.queue_declare(queue=queue_name)
-    channel.exchange_declare(exchange='logs', exchange_type='fanout')
-    message = ' '.join(sys.argv[1:]) or "info: info message"
+    channel.queue_declare(queue=queue_name)
     try:
         for r, d, f in os.walk(files):
             for file in f:
