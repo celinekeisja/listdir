@@ -98,3 +98,77 @@ DETAIL:  Failing row contains (1, null, ., config.ini, 118, 75e2f21c692cb4fe6601
 2019-11-04 17:08:55,816 - __main__ - INFO - Creating zip...
 2019-11-04 17:08:55,822 - __main__ - INFO - Zipping done.
 2019-11-04 17:08:55,822 - __main__ - INFO - Finished creating default_file_20191104_170855.csv.zip.
+2019-11-04 17:31:42,256 - __main__ - ERROR - Error in DB - name 'create_db_table' is not defined
+2019-11-04 17:31:42,263 - __main__ - INFO - Finished inserting records.
+2019-11-04 17:34:27,947 - __main__ - ERROR - Error in DB - name 'create_db_table' is not defined
+2019-11-04 17:34:27,947 - __main__ - INFO - Finished inserting records.
+2019-11-04 17:35:21,024 - __main__ - ERROR - Error in DB - name 'create_db_table' is not defined
+2019-11-04 17:35:21,025 - __main__ - INFO - Finished inserting records.
+2019-11-04 17:38:38,569 - __main__ - ERROR - Error in DB - name 'create_db_table' is not defined
+2019-11-04 17:38:38,570 - __main__ - INFO - Finished inserting records.
+2019-11-04 17:41:45,858 - __main__ - ERROR - Error in DB - name 'create_db_table' is not defined
+2019-11-04 17:41:45,858 - __main__ - INFO - Finished inserting records.
+2019-11-04 17:45:00,604 - __main__ - ERROR - Error in DB - name 'create_db_table' is not defined
+2019-11-04 17:45:00,605 - __main__ - INFO - Finished inserting records.
+2019-11-04 17:45:40,313 - __main__ - ERROR - Error in DB - name 'create_db_table' is not defined
+2019-11-04 17:45:40,313 - __main__ - INFO - Finished inserting records.
+2019-11-04 17:48:56,118 - __main__ - INFO - Finished inserting records.
+2019-11-04 17:49:35,365 - __main__ - INFO - Finished inserting records.
+2019-11-04 17:52:54,293 - __main__ - INFO - Finished inserting records.
+2019-11-12 15:46:29,199 - __main__ - INFO - Naming default_file
+2019-11-12 15:46:29,208 - __main__ - INFO - Result: default_file_20191112_154629
+2019-11-12 15:46:29,209 - __main__ - INFO - Opening new .json file.
+2019-11-12 15:46:29,210 - __main__ - INFO - Writing rows...
+2019-11-12 15:46:29,335 - __main__ - INFO - Finished with .json file. Onto zipping...
+2019-11-12 15:46:29,335 - __main__ - INFO - Zipping default_file_20191112_154629.json
+2019-11-12 15:46:29,336 - __main__ - INFO - Creating zip...
+2019-11-12 15:46:29,351 - __main__ - INFO - Zipping done.
+2019-11-12 15:46:29,351 - __main__ - INFO - Finished creating default_file_20191112_154629.json.zip.
+2019-11-12 16:42:03,721 - __main__ - INFO - Naming default_file
+2019-11-12 16:42:03,722 - __main__ - INFO - Result: default_file_20191112_164203
+2019-11-12 16:42:03,733 - pika.adapters.utils.connection_workflow - INFO - Pika version 1.1.0 connecting to ('::1', 5672, 0, 0)
+2019-11-12 16:42:03,734 - pika.adapters.utils.io_services_utils - INFO - Socket connected: <socket.socket fd=140, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=6, laddr=('::1', 52077, 0, 0), raddr=('::1', 5672, 0, 0)>
+2019-11-12 16:42:03,735 - pika.adapters.utils.connection_workflow - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001A72E23A408>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001A72E23A408> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>).
+2019-11-12 16:42:03,747 - pika.adapters.utils.connection_workflow - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001A72E23A408> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>
+2019-11-12 16:42:03,748 - pika.adapters.utils.connection_workflow - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001A72E23A408> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>
+2019-11-12 16:42:03,748 - pika.adapters.blocking_connection - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001A72E23A408> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>
+2019-11-12 16:42:03,749 - pika.adapters.blocking_connection - INFO - Created channel=1
+2019-11-12 16:54:48,091 - __main__ - INFO - Naming default_file
+2019-11-12 16:54:48,092 - __main__ - INFO - Result: default_file_20191112_165448
+2019-11-12 16:54:48,092 - __main__ - ERROR - Unable to send to queue!
+2019-11-12 16:56:32,451 - __main__ - INFO - Naming default_file
+2019-11-12 16:56:32,451 - __main__ - INFO - Result: default_file_20191112_165632
+2019-11-12 16:56:32,462 - pika.adapters.utils.connection_workflow - INFO - Pika version 1.1.0 connecting to ('::1', 5672, 0, 0)
+2019-11-12 16:56:32,463 - pika.adapters.utils.io_services_utils - INFO - Socket connected: <socket.socket fd=836, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=6, laddr=('::1', 52126, 0, 0), raddr=('::1', 5672, 0, 0)>
+2019-11-12 16:56:32,465 - pika.adapters.utils.connection_workflow - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000022475E786C8>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000022475E786C8> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>).
+2019-11-12 16:56:32,469 - pika.adapters.utils.connection_workflow - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000022475E786C8> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>
+2019-11-12 16:56:32,470 - pika.adapters.utils.connection_workflow - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000022475E786C8> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>
+2019-11-12 16:56:32,471 - pika.adapters.blocking_connection - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000022475E786C8> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>
+2019-11-12 16:56:32,472 - pika.adapters.blocking_connection - INFO - Created channel=1
+2019-11-12 17:03:13,788 - __main__ - INFO - Naming default_file
+2019-11-12 17:03:13,788 - __main__ - INFO - Result: default_file_20191112_170313
+2019-11-12 17:03:13,800 - pika.adapters.utils.connection_workflow - INFO - Pika version 1.1.0 connecting to ('::1', 5672, 0, 0)
+2019-11-12 17:03:13,801 - pika.adapters.utils.io_services_utils - INFO - Socket connected: <socket.socket fd=768, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=6, laddr=('::1', 52152, 0, 0), raddr=('::1', 5672, 0, 0)>
+2019-11-12 17:03:13,802 - pika.adapters.utils.connection_workflow - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001823FE07748>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001823FE07748> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>).
+2019-11-12 17:03:13,807 - pika.adapters.utils.connection_workflow - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001823FE07748> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>
+2019-11-12 17:03:13,808 - pika.adapters.utils.connection_workflow - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001823FE07748> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>
+2019-11-12 17:03:13,809 - pika.adapters.blocking_connection - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x000001823FE07748> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>
+2019-11-12 17:03:13,810 - pika.adapters.blocking_connection - INFO - Created channel=1
+2019-11-12 17:07:31,273 - __main__ - INFO - Naming default_file
+2019-11-12 17:07:31,274 - __main__ - INFO - Result: default_file_20191112_170731
+2019-11-12 17:07:31,284 - pika.adapters.utils.connection_workflow - INFO - Pika version 1.1.0 connecting to ('::1', 5672, 0, 0)
+2019-11-12 17:07:31,285 - pika.adapters.utils.io_services_utils - INFO - Socket connected: <socket.socket fd=768, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=6, laddr=('::1', 52181, 0, 0), raddr=('::1', 5672, 0, 0)>
+2019-11-12 17:07:31,287 - pika.adapters.utils.connection_workflow - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000139BCD29708>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000139BCD29708> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>).
+2019-11-12 17:07:31,293 - pika.adapters.utils.connection_workflow - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000139BCD29708> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>
+2019-11-12 17:07:31,293 - pika.adapters.utils.connection_workflow - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000139BCD29708> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>
+2019-11-12 17:07:31,294 - pika.adapters.blocking_connection - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x00000139BCD29708> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>
+2019-11-12 17:07:31,294 - pika.adapters.blocking_connection - INFO - Created channel=1
+2019-11-13 08:30:28,702 - __main__ - INFO - Naming default_file
+2019-11-13 08:30:28,715 - __main__ - INFO - Result: default_file_20191113_083028
+2019-11-13 08:30:28,727 - pika.adapters.utils.connection_workflow - INFO - Pika version 1.1.0 connecting to ('::1', 5672, 0, 0)
+2019-11-13 08:30:28,727 - pika.adapters.utils.io_services_utils - INFO - Socket connected: <socket.socket fd=720, family=AddressFamily.AF_INET6, type=SocketKind.SOCK_STREAM, proto=6, laddr=('::1', 52863, 0, 0), raddr=('::1', 5672, 0, 0)>
+2019-11-13 08:30:28,729 - pika.adapters.utils.connection_workflow - INFO - Streaming transport linked up: (<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000017249A785C8>, _StreamingProtocolShim: <SelectConnection PROTOCOL transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000017249A785C8> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>).
+2019-11-13 08:30:28,734 - pika.adapters.utils.connection_workflow - INFO - AMQPConnector - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000017249A785C8> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>
+2019-11-13 08:30:28,734 - pika.adapters.utils.connection_workflow - INFO - AMQPConnectionWorkflow - reporting success: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000017249A785C8> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>
+2019-11-13 08:30:28,735 - pika.adapters.blocking_connection - INFO - Connection workflow succeeded: <SelectConnection OPEN transport=<pika.adapters.utils.io_services_utils._AsyncPlaintextTransport object at 0x0000017249A785C8> params=<ConnectionParameters host=localhost port=5672 virtual_host=/ ssl=False>>
+2019-11-13 08:30:28,735 - pika.adapters.blocking_connection - INFO - Created channel=1

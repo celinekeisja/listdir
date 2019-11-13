@@ -11,16 +11,39 @@ from datetime import datetime
 import psycopg2
 import yaml
 import create_db_table
+import pika
+import sys
 
 
-def database_connection(hostname, username):
+def send_to_queue(hostname, queue_name, routing_key, files):
+    connection = pika.BlockingConnection(
+        pika.ConnectionParameters(host=hostname))
+    channel = connection.channel()
+    # channel.queue_declare(queue=queue_name)
+    channel.exchange_declare(exchange='logs', exchange_type='fanout')
+    message = ' '.join(sys.argv[1:]) or "info: info message"
+    try:
+        for r, d, f in os.walk(files):
+            for file in f:
+                i = json.dumps(json_rows(r, file))
+                channel.basic_publish(exchange='logs',
+                                      routing_key=routing_key,
+                                      body=i)
+                print("[x] Sent {} to queue!".format(i))
+        return "[x] Sent!"
+    except:
+        logger.error("Unable to json.")
+    connection.close()
+
+
+def database_connection(hostname, username, port, database):
     """Connects to the database."""
     try:
         connection = psycopg2.connect(user=username,
                                       password=gp.getpass('Password: '),
                                       host=hostname,
-                                      port="5433",
-                                      database="listdir_db")
+                                      port=port,
+                                      database=database)
         return connection
     except Exception as e:
         logger.error(f"Error in connection - {e}")
@@ -68,6 +91,21 @@ def setup_logging(default_path='logging_listdir.yaml',
     return 'Setting up logging.'
 
 
+def json_rows(r, file):
+    size = os.path.getsize(r + os.sep + file)
+    path = os.path.abspath(r + os.sep + file)
+    data = {}
+    data[file] = []
+    data[file].append({
+        'Parent Path': path,
+        'File Name': file,
+        'File Size': size,
+        'MD5': hash_file(path, 'md5'),
+        'SHA1': hash_file(path, 'sha1')
+    })
+    return data
+
+
 def json_files(name, files):
     """ Put the Parent Path, File Name, and File Size of files within the specified directory in a JSON file. """
     logger.info('Opening new .json file.')
@@ -77,18 +115,7 @@ def json_files(name, files):
             try:
                 for r, d, f in os.walk(files):
                     for file in f:
-                        size = os.path.getsize(r + os.sep + file)
-                        path = os.path.abspath(r + os.sep + file)
-                        data = {}
-                        data[file] = []
-                        data[file].append({
-                            'Parent Path': path,
-                            'File Name': file,
-                            'File Size': size,
-                            'MD5': hash_file(path, 'md5'),
-                            'SHA1': hash_file(path, 'sha1')
-                        })
-                        json.dump(data, json_file, indent=2)
+                        json.dump(json_rows(r, file), json_file, indent=2)
             except:
                 logger.error("Unable to write file.")
     except:
@@ -182,6 +209,7 @@ def main():
     parser.add_argument("-j", "--json", action="store_true")
     parser.add_argument("-c", "--csv", action="store_true")
     parser.add_argument("-d", "--db", action="store_true")
+    parser.add_argument("-q", "--queue", action="store_true")
     args = parser.parse_args()
     directory_name = args.path
     try:
@@ -190,7 +218,7 @@ def main():
                 hostname = config['db']['hostname']
                 username = config['db']['username']
                 create_db_table.check_database(hostname, username)
-                connection = database_connection(hostname, username)
+                connection = database_connection(hostname, username, config['db']['port'], config['db']['database'])
                 create_db_table.create_table(connection)
                 database_insert(connection, directory_name)
             except Exception as e:
@@ -210,6 +238,15 @@ def main():
                 except:
                     logger.error('Unable to zip file.')
                 logger.info(f'Finished creating {new_name}.')
+            elif args.queue:
+                try:
+                    hostname = config['queue']['hostname']
+                    queue_name = config['queue']['queue_name']
+                    routing_key = config['queue']['routing_key']
+                    send_to_queue(hostname, queue_name,
+                                  routing_key, directory_name)
+                except:
+                    logger.error('Unable to send to queue!')
     except:
         logger.error('Did not specify type.')
 
