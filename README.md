@@ -1,6 +1,6 @@
 # listdir
 This is a Python program that takes the path of a directory and lists the Parent
-Path, File Name, and File Size of the files within that directory into a database, csv file, or json file.
+Path, File Name, and File Size of the files within that directory into a database, csv file, json file or send to queue in json format.
 
 ## Requirements
 Python 3
